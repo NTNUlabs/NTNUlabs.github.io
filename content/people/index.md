@@ -16,7 +16,6 @@ sections:
           - Researcher and Post Doctorate
           - Associate researcher
           - PhD Candidate
-
           - Principal Investigators
           - Researchers
           - Grad Students
