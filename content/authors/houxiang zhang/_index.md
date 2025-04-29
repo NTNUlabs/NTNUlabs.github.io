@@ -73,10 +73,9 @@ email: 'mailto:hozh@ntnu.no'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Group leader
-  - Researchers
-  - Visitors
+ 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+(M’04-SM'12) received Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, Faculty of Mathematics, Informatics and Natural Sciences, University of Hamburg, Germany. In Feb. 2011, he finished the Habilitation on Informatics at University of Hamburg.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Zhang joined the NTNU, Norway in April 2011 where he is a Professor on Mechatronics. From 2011-2016, he hold a gift professorship on product and system design from the industry too. The focus of his research lies on two areas. One is on biological robots and modular robotics. The second focus is on virtual prototyping and maritime mechatronics. In these areas, he has published over 300 journal and conference papers and book chapters as author or co-author. Recently, he received four best paper awards at the Robotic conferences, and four finalist awards for best conference paper at IEEE Robotics and Automation conferences.
