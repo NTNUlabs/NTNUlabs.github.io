@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2025-4-30
+date: 2025-04-30
 
 type: landing
 
