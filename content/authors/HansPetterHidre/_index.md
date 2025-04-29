@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor & Head of department
+role: |
+      Professor & Head of department
       Head of Department
       Department of Ocean Operations and Civil Engineering
       Faculty of Engineering
@@ -34,7 +35,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'hans.p.hildre@ntnu.no'
+    link: 'mailto:hans.p.hildre@ntnu.no'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.no/citations?user=4oQK-L0AAAAJ&hl=no

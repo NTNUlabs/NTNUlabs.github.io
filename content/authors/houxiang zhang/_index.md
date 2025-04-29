@@ -38,7 +38,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hozh@ntnu.no'
+    link: 'mailto:mailto:hozh@ntnu.no'
   - icon: twitter
     icon_pack: fab
     link: https://www.ntnu.edu/employees/hozh

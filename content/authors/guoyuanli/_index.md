@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
+ interests:
   - My research interests mainly lie in digitalization, control, optimization & artificial 
   - intelligence. More specifically,
   - In robotics: bio-inspired robots, Central Pattern Generators for gait generation, Adaptive locomotion control.
@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'guoyuan.li@ntnu.no'
+    link: 'mailto:guoyuan.li@ntnu.no'
   - icon: twitter
     icon_pack: fab
     link: https://www.ntnu.edu/employees/guoyuan.li
@@ -69,6 +69,5 @@ email: 'guoyuan.li@ntnu.no'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Faculty & Principal
 ---
