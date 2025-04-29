@@ -27,9 +27,6 @@ organizations:
  interests:
   - My research interests mainly lie in digitalization, control, optimization & artificial 
   - intelligence. More specifically,
-  - In robotics: bio-inspired robots, Central Pattern Generators for gait generation, Adaptive locomotion control.
-  - In ship maneuvering: modeling and simulation of ship maneuvering, dynamic positioning, ship path planning, ship motion prediction.
-  - In human-machine interaction: visual focus analysis.
 
 education:
   courses:
