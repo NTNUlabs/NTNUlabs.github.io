@@ -1,6 +1,6 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-4-30
 
 type: landing
 
@@ -11,6 +11,12 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
+          - Group leader
+          - Faculty & Principal
+          - Researcher and Post Doctorate
+          - Associate researcher
+          - PhD Candidate
+
           - Principal Investigators
           - Researchers
           - Grad Students
@@ -23,4 +29,41 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+
+  - block: markdown
+    content:
+      title: Additional Team Members
+      markdown: |
+        **Graduated PhD:**  
+         
+        - Robert Skulstad  
+        - Pierre Major  
+        - Lars Ivar Hatledal  
+        - Thiago Gabriel Monteiro  
+        - Xu Cheng  
+        - André Listou Ellefsen  
+        - Yingguang Chu  
+        - Cong Liu  
+        - Filippo Sanfilippo  
+        - Peihua Han  
+        - Tongtong Wang  
+        - Baiheng Wu  
+        - Motoyasu Kanazawa  
+        - Chunlin Wang  
+        - Mingda Zhu  
+        - Zizheng Liu
+
+        **Alumni:**  
+        
+        - Shiyang Li  
+        - Shuai Yuan  
+        - Luman Zhao  
+        - Feng Yue  
+        - Yuxiang Deng  
+        - Pedersen Birger Skogeng  
+        - Wei Li  
+        - Yueri Cai
+
+
 ---
