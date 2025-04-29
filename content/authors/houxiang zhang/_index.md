@@ -30,18 +30,6 @@ interests:
   - Artificial intelligence, machine learning and relate applications
   - Hybrid modelling and co-simulation
 
-education:
-  courses:
-    - course: PhD in Mechanical and Electronic Engineering
-      institution:  University of Hamburg, Germany.
-      year: 2003
-
-    - course: MEng in Mechanical and Electronic Engineering
-      institution:  University of Hamburg, Germany.
-      year: 2003
-    - course: BSc in Mechanical and Electronic Engineering
-      institution:  University of Hamburg, Germany.
-      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -77,6 +65,6 @@ user_groups:
  
 ---
 
-(M鈥�04-SM'12) received Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, Faculty of Mathematics, Informatics and Natural Sciences, University of Hamburg, Germany. In Feb. 2011, he finished the Habilitation on Informatics at University of Hamburg.
+(M’04-SM'12) received Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, Faculty of Mathematics, Informatics and Natural Sciences, University of Hamburg, Germany. In Feb. 2011, he finished the Habilitation on Informatics at University of Hamburg.
 
 Dr. Zhang joined the NTNU, Norway in April 2011 where he is a Professor on Mechatronics. From 2011-2016, he hold a gift professorship on product and system design from the industry too. The focus of his research lies on two areas. One is on biological robots and modular robotics. The second focus is on virtual prototyping and maritime mechatronics. In these areas, he has published over 300 journal and conference papers and book chapters as author or co-author. Recently, he received four best paper awards at the Robotic conferences, and four finalist awards for best conference paper at IEEE Robotics and Automation conferences.
