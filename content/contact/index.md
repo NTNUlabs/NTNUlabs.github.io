@@ -17,11 +17,11 @@ sections:
         Website: [ Intelligent Systems Lab](https://www.ntnu.edu/ihb/intelligent-systems-lab)
 
         **Houxiang Zhang**  
-        Email: hozh@ntnu.no  
+        Email:  [hozh@ntnu.no](mailto:hozh@ntnu.no)  
         Phone: +47 7016 1611  
 
         **Guoyuan Li**  
-        Email: guoyuan.li@ntnu.no  
+        Email: [guoyuan.li@ntnu.no](mailto:guoyuan.li@ntnu.no)
         Phone: +47 7016 1325
 
        #   email: hozh@ntnu.no
