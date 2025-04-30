@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Andr®¶ Listou Ellefsen
+title: Andr√© Listou Ellefsen
 
 # Full name (for SEO)
-first_name: Andr®¶ Listou Ellefsen
+first_name: Andr√© Listou Ellefsen
 last_name:  Ellefsen
 
 # Username (this should match the folder name)
 authors:
-  - Andr®¶ Listou Ellefsen
+  - Andr√© Listou Ellefsen
 
 # Is this the primary user of the site?
 superuser: false
