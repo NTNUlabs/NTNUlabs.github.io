@@ -13,7 +13,7 @@ sections:
       
         
         **Intelligent Systems Lab**  
-        Location: Room L103, NTNU in Ålesund
+        Location: Room L103, NTNU in Ålesund  
         Website: [ Intelligent Systems Lab](https://www.ntnu.edu/ihb/intelligent-systems-lab)
 
         **Houxiang Zhang**  
@@ -21,7 +21,7 @@ sections:
         Phone: +47 7016 1611  
 
         **Guoyuan Li**  
-        Email: [guoyuan.li@ntnu.no](mailto:guoyuan.li@ntnu.no)
+        Email: [guoyuan.li@ntnu.no](mailto:guoyuan.li@ntnu.no)  
         Phone: +47 7016 1325
 
        #   email: hozh@ntnu.no
@@ -39,11 +39,10 @@ sections:
         longitude: '6.233797'
       
       directions: |
-        Bus stops named "Campus Ålesund"; timetables available at Fram.
-
+        Bus stops named "Campus Ålesund"; timetables available at Fram.  
         Taxi Services:
         - NorgesTaxi: Phone 08000
-        - Ålesund Taxi: Phone +47 70 10 30 00
+        - Ålesund Taxi: Phone  +47 70 10 30 00
       office_hours:
         - 'Monday to Friday: 08:00 – 15:00'
       appointment_url: 'https://use.mazemap.com/#v=1&campusid=91&zlevel=1&center=6.233797,62.472278&zoom=22&sharepoitype=poi&sharepoi=1000318129'
@@ -77,7 +76,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: toghter.jpg
           filters:
             brightness: 1
           parallax: false
