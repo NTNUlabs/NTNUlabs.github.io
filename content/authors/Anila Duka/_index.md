@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Anila Duka
+title: Anila Duka
 
 # Full name (for SEO)
 first_name: Anila Duka
