@@ -30,7 +30,7 @@ sections:
   - block: markdown
     content:
       title: Alumni and Graduated PhD
-      markdown: |
+      markdown: >
         **Graduated PhD**  
         - Robert Skulstad  
         - Pierre Major  
