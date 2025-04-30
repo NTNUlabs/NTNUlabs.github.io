@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Russell Burch Primeau
+title: Russell Burch Primeau
 
 # Full name (for SEO)
 first_name: Russell Burch 
