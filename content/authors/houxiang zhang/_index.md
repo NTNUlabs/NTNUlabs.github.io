@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'mailto:hozh@ntnu.no'
+email: 'hozh@ntnu.no'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -64,7 +64,29 @@ user_groups:
   - Researchers
  
 ---
+## About / CV
 
-(M¡¯04-SM'12) received Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, Faculty of Mathematics, Informatics and Natural Sciences, University of Hamburg, Germany. In Feb. 2011, he finished the Habilitation on Informatics at University of Hamburg.
+(M¡¯04-SM'12) received his Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as a Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, University of Hamburg, Germany. In February 2011, he finished the Habilitation on Informatics at the University of Hamburg.
 
-Dr. Zhang joined the NTNU, Norway in April 2011 where he is a Professor on Mechatronics. From 2011-2016, he hold a gift professorship on product and system design from the industry too. The focus of his research lies on two areas. One is on biological robots and modular robotics. The second focus is on virtual prototyping and maritime mechatronics. In these areas, he has published over 300 journal and conference papers and book chapters as author or co-author. Recently, he received four best paper awards at the Robotic conferences, and four finalist awards for best conference paper at IEEE Robotics and Automation conferences.
+Dr. Zhang joined NTNU, Norway in April 2011, where he is a Professor of Mechatronics. From 2011¨C2016, he also held an industry-supported gift professorship on product and system design. His research focuses on biological/modular robotics and maritime mechatronics. He has authored/co-authored over 300 publications and has received several best paper and finalist awards at IEEE robotic conferences.
+
+---
+
+## Research Interests
+
+- Biological robots and modular robotics, especially system design and locomotion control  
+- Marine automation, digitalization, and ship intelligence  
+- Artificial intelligence, machine learning and related applications  
+- Hybrid modelling and co-simulation
+
+---
+
+## Academic & Professional Memberships
+
+- 2024 Member, Royal Norwegian Society of Sciences and Letters (DKNVS)  
+- 2019 Member, Norwegian Academy of Technological Sciences (NTVA)  
+- 2012 Senior Member, IEEE  
+- 2011¨C2016 Gift Professorship (Norwegian Centre of Expertise)  
+- 2019¨C2022 Board Member, SFI Offshore Mechatronics  
+
+---

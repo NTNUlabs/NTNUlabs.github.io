@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Robert Skulstad
+title: Peihua Han
 
 # Full name (for SEO)
-first_name: Robert
-last_name: Skulstad
+first_name: Peihua
+last_name:  Han
 
 # Username (this should match the folder name)
 authors:
-  - Robert Skulstad
+  - Peihua Han
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
   - name: Department of Ocean Operations and Civil Engineering
-    url: 'https://www.ntnu.edu/employees/robert.skulstad'
+    url: 'https://www.ntnu.edu/employees/peihua.han'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -35,13 +35,13 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rrobert.skulstad@ntnu.no'
+    link: 'mailto:peihua.han@ntnu.no'
   - icon: google-scholar
     icon_pack: ai
-    link: https://www.ntnu.edu/employees/robert.skulstad
+    link: https://www.ntnu.edu/employees/peihua.han
   - icon: twitter
     icon_pack: fab
-    link: https://www.ntnu.edu/employees/robert.skulstad
+    link: https://www.ntnu.edu/employees/peihua.han
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -50,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'robert.skulstad@ntnu.no'
+email: 'peihua.han@ntnu.no'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -58,12 +58,30 @@ user_groups:
   - Researcher and Post Doctorate
  
 ---
+## About
 
-## Research Interests
-My research interests mainly lie within ship maneuvering and ship decision support systems. Specifically how machine learning can be used to aid these applications.
+### Working Experience
+- **04/2024 每 Present**: Senior Researcher, Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
+- **05/2022 每 04/2024**: Postdoc, Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway
 
-## Project Experience
-**2017每2019**: DeepTek Pre-project  
-Associated with the SFI MOVE project.  
-Detailed information can be found from the [Intelligent Systems Lab](https://www.ntnu.edu/ihb/intelligent-systems-lab)  
-or visit [org.ntnu.no/intelligentsystemslab](http://org.ntnu.no/intelligentsystemslab)
+### Education
+- **06/2019 每 05/2022**: Ph.D., Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
+  *Thesis: Data-driven Methods for Decision Supports in Smart Ship Operations*  
+  *(Main supervisor: Houxiang Zhang; Co-supervisors: Guoyuan Li and Stian Skjong)*
+- **06/2016 每 05/2019**: M.Sc., Department of Architecture and Civil Engineering, Zhejiang University, Hangzhou, China  
+- **09/2012 每 06/2016**: B.Sc., Department of Architecture and Civil Engineering, Zhejiang University, Hangzhou, China
+
+### Project Experience
+- **2019 每 2022**: KPN, *Digital Twins for Vessel Life Cycle Service (TwinShip)*  
+- **2020 每 2023**: IPN, *Development of a Novel Process for the Application of Krill as Alternative Protein Source in Human Nutrition*  
+- **2020 每 2024**: IKT, *Remote Control Centre for Autonomous Ship Support*
+
+### Research Interests
+- Artificial intelligence, machine learning, Bayesian approach, and related applications  
+- Marine automation, digitalization, and ship intelligence  
+- Data assimilation, probabilistic inference, and simulation-based inference
+
+### Awards
+- CHORAFAS Prize, 2022  
+- IEEE Robotics and Automation Magazine Best Paper Award, 2024  
+- 2nd place in PHM North America 2024 data challenge

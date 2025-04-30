@@ -35,7 +35,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:rrobert.skulstad@ntnu.no'
+    link: 'mailto:robert.skulstad@ntnu.no'
   - icon: google-scholar
     icon_pack: ai
     link: https://www.ntnu.edu/employees/robert.skulstad
