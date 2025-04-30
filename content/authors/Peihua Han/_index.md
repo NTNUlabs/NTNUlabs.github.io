@@ -1,0 +1,69 @@
+---
+# Display name
+title: Robert Skulstad
+
+# Full name (for SEO)
+first_name: Robert
+last_name: Skulstad
+
+# Username (this should match the folder name)
+authors:
+  - Robert Skulstad
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Associate Professor
+
+# Organizations/Affiliations
+organizations:
+  - name: Department of Ocean Operations and Civil Engineering
+    url: 'https://www.ntnu.edu/employees/robert.skulstad'
+
+# Short bio (displayed in user profile at end of posts)
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+#interests:
+ # - 
+
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:rrobert.skulstad@ntnu.no'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://www.ntnu.edu/employees/robert.skulstad
+  - icon: twitter
+    icon_pack: fab
+    link: https://www.ntnu.edu/employees/robert.skulstad
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'robert.skulstad@ntnu.no'
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Researcher and Post Doctorate
+ 
+---
+
+## Research Interests
+My research interests mainly lie within ship maneuvering and ship decision support systems. Specifically how machine learning can be used to aid these applications.
+
+## Project Experience
+**2017¨C2019**: DeepTek Pre-project  
+Associated with the SFI MOVE project.  
+Detailed information can be found from the [Intelligent Systems Lab](https://www.ntnu.edu/ihb/intelligent-systems-lab)  
+or visit [org.ntnu.no/intelligentsystemslab](http://org.ntnu.no/intelligentsystemslab)
