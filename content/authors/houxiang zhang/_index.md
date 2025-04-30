@@ -57,7 +57,7 @@ email: 'hozh@ntnu.no'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Group leader
-  - Researchers
+ 
  
 ---
 ## About / CV

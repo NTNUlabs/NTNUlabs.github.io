@@ -10,23 +10,37 @@ sections:
       title: Contact
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+
+        **Houxiang Zhang**  
+        Email: hozh@ntnu.no  
+        Phone: +47 7016 1611  
+
+        **Guoyuan Li**  
+        Email: guoyuan.li@ntnu.no  
+        Phone: +47 7016 1325
+
+       #   email: hozh@ntnu.no
+       #   phone: +47 7016 1611
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Larsgårdsvegen 2
+        city: Ålesund
+        region: Møre og Romsdal
+        postcode: '6009'
+        country: Norway
+        country_code: NO
+
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '62.47226'
+        longitude: '6.1549'
+      directions: >
+        Bus stops named "Campus Ålesund"; timetables available at Fram.
+        Taxi Services:
+        - NorgesTaxi: Phone 08000
+        - Ålesund Taxi: Phone +47 70 10 30 00
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday: 08:00 – 15:00'
       appointment_url: 'https://calendly.com'
+     
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
