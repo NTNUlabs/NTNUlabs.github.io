@@ -29,33 +29,33 @@ sections:
 
   - block: markdown
     content:
-      title: 
-      markdown: >
+      title: Alumni and Graduated PhD
+      text: |
         **Graduated PhD**  
-        - Robert Skulstad  
-        - Pierre Major  
-        - Lars Ivar Hatledal  
-        - Thiago Gabriel Monteiro  
-        - Xu Cheng  
-        - André Listou Ellefsen  
-        - Yingguang Chu  
-        - Cong Liu  
-        - Filippo Sanfilippo  
-        - Peihua Han  
-        - Tongtong Wang  
-        - Baiheng Wu  
-        - Motoyasu Kanazawa  
-        - Chunlin Wang  
-        - Mingda Zhu  
-        - Zizheng Liu  
+        Robert Skulstad  
+        Pierre Major  
+        Lars Ivar Hatledal  
+        Thiago Gabriel Monteiro  
+        Xu Cheng  
+        André Listou Ellefsen  
+        Yingguang Chu  
+        Cong Liu  
+        Filippo Sanfilippo  
+        Peihua Han  
+        Tongtong Wang  
+        Baiheng Wu  
+        Motoyasu Kanazawa  
+        Chunlin Wang  
+        Mingda Zhu  
+        Zizheng Liu
 
         **Alumni**  
-        - Shiyang Li  
-        - Shuai Yuan  
-        - Luman Zhao  
-        - Feng Yue  
-        - Yuxiang Deng  
-        - Pedersen Birger Skogeng  
-        - Wei Li  
-        - Yueri Cai
+        Shiyang Li  
+        Shuai Yuan  
+        Luman Zhao  
+        Feng Yue  
+        Yuxiang Deng  
+        Pedersen Birger Skogeng  
+        Wei Li  
+        Yueri Cai
 ---
