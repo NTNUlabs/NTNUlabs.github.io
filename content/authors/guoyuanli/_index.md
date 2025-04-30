@@ -37,6 +37,7 @@ education:
       year: 2009
     - course: Computer science and technology, B.S
       institution: Chongqing University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

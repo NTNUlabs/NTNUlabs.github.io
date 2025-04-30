@@ -14,11 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: |
-      Professor & Head of department
-      Head of Department
-      Department of Ocean Operations and Civil Engineering
-      Faculty of Engineering
+role: Professor & Head of department
+   
 
 # Organizations/Affiliations
 organizations:
