@@ -32,7 +32,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tongtong.wang@ntnu.no'
-  - icon: Researcher
+  - icon: google-scholar
     icon_pack: ai
     link: https://www.researchgate.net/profile/Tongtong-Wang-6
   - icon: twitter

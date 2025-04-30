@@ -1,29 +1,28 @@
 ---
 # Display name
-title: Hans Petter Hildre
+title: Mingda Zhu
 
 # Full name (for SEO)
-first_name: Hans
-last_name: Petter Hildre
+first_name: Mingda
+last_name:  Zhu
 
 # Username (this should match the folder name)
 authors:
-  - Hans Petter Hildre
+  - Mingda Zhu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor & Head of department
-   
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Ocean Operations and Civil Engineering
-    url: 'https://www.ntnu.edu/ihb'
+  - name: Institutt for ingeniørvitenskap
+    url: 'https://www.uia.no/om-uia/fakultet/teknologi-og-realfag/ingeniorvitenskap/index.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -32,13 +31,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hans.p.hildre@ntnu.no'
+    link: 'mailto:Mingdamingda.zhu@uia.no'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.no/citations?user=4oQK-L0AAAAJ&hl=no
+    link: https://www.uia.no/om-uia/ansatte/mingdaz/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.uia.no/om-uia/ansatte/mingdaz/
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -48,12 +48,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hans.p.hildre@ntnu.no'
+email: 'mingda.zhu@uia.no'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Faculty & Principal
-  
+  - Associate researcher
+ 
 ---
-
+## Forskningsgrupper
+ - 🔗 [Robotikk og automasjon](https://www.uia.no/forskning/forskningsgrupper/tr/robotikk-automasjon.html)  

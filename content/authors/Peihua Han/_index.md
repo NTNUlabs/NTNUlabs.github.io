@@ -19,7 +19,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
   - name: Department of Ocean Operations and Civil Engineering
-    url: 'https://www.ntnu.edu/employees/peihua.han'
+    url: 'https://www.ntnu.edu/ihb'
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
