@@ -40,12 +40,13 @@ sections:
       
       directions: |
         Bus stops named "Campus Ålesund"; timetables available at Fram.
+
         Taxi Services:
         - NorgesTaxi: Phone 08000
         - Ålesund Taxi: Phone +47 70 10 30 00
       office_hours:
         - 'Monday to Friday: 08:00 – 15:00'
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://use.mazemap.com/#v=1&campusid=91&zlevel=1&center=6.233797,62.472278&zoom=22&sharepoitype=poi&sharepoi=1000318129'
      
       #contact_links:
       #  - icon: comments

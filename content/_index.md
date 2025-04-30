@@ -1,21 +1,22 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-04-30
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Welcome to the Intelligent Systems Lab!
       image:
-        filename: welcome.jpg
+        filename: toghter.jpg
       text: |
         <br>
+        Our research group is based under the MOVE research framework and belongs to [the Department of Ocean Operations and Civil Engineering](https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering) under [the Faculty of Engineering](https://www.ntnu.edu/iv). The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates who are working on related topics in intelligent systems in maritime and robotics.
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **Research Focus**
+        The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, thermal analysis, control, etc. While conventional approaches typically involve the separate simulation of these subsystems, the team leading by Prof. Zhang pioneered the development of an integrated co-simulation framework for marine surface vessels, seamlessly incorporating over 10 multidisciplinary subsystems. The research works extended to the creation of a digital twin for marine vessels in real operation as the first, enabling remote monitoring and control of these complex systems. The second distinct research in the lab is in the area of physics-data cooperative hybrid modelling and control of marine vessels considering environmental and operational uncertainties. Unlike classic model-based or pure data-driven approaches, there have been few attempts to build predictive models by organically incorporating them together in a holistic manner. One of the primary reasons is that the model complexity due to frequent interaction with water results in an inaccurate description of marine vehicle dynamics. Furthermore, uncertainties and environmental disturbance including as operational conditional changing, wind and waves, add extra complexity and hinder obtaining ship dynamic model with high fidelity.
   
   - block: collection
     content:
@@ -74,7 +75,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the team ↄ1�7" %}}
     design:
       columns: '1'
 ---
