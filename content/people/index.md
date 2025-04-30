@@ -29,7 +29,7 @@ sections:
 
   - block: markdown
     content:
-      title: Alumni and Graduated PhD
+      title: 
       markdown: >
         **Graduated PhD**  
         - Robert Skulstad  
