@@ -24,11 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Biological robots and modular robotics, especially on system design and locomotion control
-  - Marine automation, digitalization and ship intelligence
-  - Artificial intelligence, machine learning and relate applications
-  - Hybrid modelling and co-simulation
+
 
 
 # Social/Academic Networking
@@ -66,9 +62,9 @@ user_groups:
 ---
 ## About / CV
 
-(M¡¯04-SM'12) received his Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as a Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, University of Hamburg, Germany. In February 2011, he finished the Habilitation on Informatics at the University of Hamburg.
+(M'04-SM'12) received his Ph.D. degree in Mechanical and Electronic Engineering in 2003. From 2004, he worked as a Postdoctoral Fellow at the Institute of Technical Aspects of Multimodal Systems (TAMS), Department of Informatics, University of Hamburg, Germany. In February 2011, he finished the Habilitation on Informatics at the University of Hamburg.
 
-Dr. Zhang joined NTNU, Norway in April 2011, where he is a Professor of Mechatronics. From 2011¨C2016, he also held an industry-supported gift professorship on product and system design. His research focuses on biological/modular robotics and maritime mechatronics. He has authored/co-authored over 300 publications and has received several best paper and finalist awards at IEEE robotic conferences.
+Dr. Zhang joined NTNU, Norway in April 2011, where he is a Professor of Mechatronics. From 2011-2016, he also held an industry-supported gift professorship on product and system design. His research focuses on biological/modular robotics and maritime mechatronics. He has authored/co-authored over 300 publications and has received several best paper and finalist awards at IEEE robotic conferences.
 
 ---
 
@@ -86,7 +82,7 @@ Dr. Zhang joined NTNU, Norway in April 2011, where he is a Professor of Mechatro
 - 2024 Member, Royal Norwegian Society of Sciences and Letters (DKNVS)  
 - 2019 Member, Norwegian Academy of Technological Sciences (NTVA)  
 - 2012 Senior Member, IEEE  
-- 2011¨C2016 Gift Professorship (Norwegian Centre of Expertise)  
-- 2019¨C2022 Board Member, SFI Offshore Mechatronics  
+- 2011-2016 Gift Professorship (Norwegian Centre of Expertise)  
+- 2019-2022 Board Member, SFI Offshore Mechatronics  
 
 ---

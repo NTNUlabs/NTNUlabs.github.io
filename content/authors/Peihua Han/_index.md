@@ -61,20 +61,20 @@ user_groups:
 ## About
 
 ### Working Experience
-- **04/2024 \每 Present**: Senior Researcher, Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
-- **05/2022 \每 04/2024**: Postdoc, Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway
+- **04/2024  - Present**: Senior Researcher, Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
+- **05/2022  - 04/2024**: Postdoc, Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway
 
 ### Education
-- **06/2019 \每 05/2022**: Ph.D., Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
+- **06/2019  - 05/2022**: Ph.D., Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
   *Thesis: Data-driven Methods for Decision Supports in Smart Ship Operations*  
   *(Main supervisor: Houxiang Zhang; Co-supervisors: Guoyuan Li and Stian Skjong)*
-- **06/2016 \每 05/2019**: M.Sc., Department of Architecture and Civil Engineering, Zhejiang University, Hangzhou, China  
-- **09/2012 \每 06/2016**: B.Sc., Department of Architecture and Civil Engineering, Zhejiang University, Hangzhou, China
+- **06/2016  - 05/2019**: M.Sc., Department of Architecture and Civil Engineering, Zhejiang University, Hangzhou, China  
+- **09/2012 -  06/2016**: B.Sc., Department of Architecture and Civil Engineering, Zhejiang University, Hangzhou, China
 
 ### Project Experience
-- **2019 \每 2022**: KPN, *Digital Twins for Vessel Life Cycle Service (TwinShip)*  
-- **2020 \每 2023**: IPN, *Development of a Novel Process for the Application of Krill as Alternative Protein Source in Human Nutrition*  
-- **2020 \每 2024**: IKT, *Remote Control Centre for Autonomous Ship Support*
+- **2019 - 2022**: KPN, *Digital Twins for Vessel Life Cycle Service (TwinShip)*  
+- **2020 - 2023**: IPN, *Development of a Novel Process for the Application of Krill as Alternative Protein Source in Human Nutrition*  
+- **2020 - 2024**: IKT, *Remote Control Centre for Autonomous Ship Support*
 
 ### Research Interests
 - Artificial intelligence, machine learning, Bayesian approach, and related applications  

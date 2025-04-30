@@ -57,14 +57,14 @@ user_groups:
 ## About
 
 ### Education
-- **07/2019 \每 06/2022**: Ph.D., Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
+- **07/2019  - 06/2022**: Ph.D., Department of Ocean Operations and Civil Engineering, NTNU Aalesund, Norway  
   *Thesis: Intelligent and Flexible Domain Models for Digital Twins of Maritime Design and Operation*
-- **09/2016 \每 03/2019**: M.Sc., School of Naval Architecture & Ocean and Civil Engineering, Shanghai Jiao Tong University, Shanghai, China  
-- **09/2012 \每 06/2016**: B.Sc., School of Civil Engineering, Tianjin University, Tianjin, China
+- **09/2016  - 03/2019**: M.Sc., School of Naval Architecture & Ocean and Civil Engineering, Shanghai Jiao Tong University, Shanghai, China  
+- **09/2012  - 06/2016**: B.Sc., School of Civil Engineering, Tianjin University, Tianjin, China
 
 ### Project Experience
-- **2019 \每 Present**: KPN project, *Digital Twins for Vessel Life Cycle Service (TwinShip)*  
-- **2021 \每 2022**: Startplugg project
+- **2019  - Present**: KPN project, *Digital Twins for Vessel Life Cycle Service (TwinShip)*  
+- **2021  - 2022**: Startplugg project
 
 ### Awards
 - Best Paper Finalist, 2020 IEEE International Conference on Mechatronics and Automation  
