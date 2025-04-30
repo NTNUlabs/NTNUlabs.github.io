@@ -1,29 +1,28 @@
 ---
 # Display name
-title: Beatriz Sanguino
+title: Weiwei Tian
 
 # Full name (for SEO)
-first_name: Beatriz Sanguino
-last_name:  Sanguino
+first_name: Weiwei 
+last_name:  Tian
 
 # Username (this should match the folder name)
 authors:
-  - Beatriz Sanguino
+  - Weiwei Tian
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-# role: Associate Professor
+#role: Associate Professor
  
 
 # Organizations/Affiliations
 organizations:
-  - name: Stipendiat
-  - name: Institutt for havromsoperasjoner og byggteknikk
-    url: 'https://www.ntnu.no/ihb'
-  - name: Institutt for språk og litteratur
-    url: 'https://www.ntnu.no/isl'
+  - name: PhD student
+  - name: Faculty of Engineering
+    url: 'https://www.ntnu.edu/iv'
+
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -34,16 +33,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:beatriz.i.s.c.d.c.sanguino@ntnu.no'
+    link: 'mailto:weiwei.tian@ntnu.no'
   - icon: google-scholar
     icon_pack: ai
-    link: https://www.ntnu.no/ansatte/beatriz.i.s.c.d.c.sanguino
+    link: https://www.ntnu.edu/employees/weiwei.tian
   - icon: twitter
     icon_pack: fab
-    link: https://www.ntnu.no/ansatte/beatriz.i.s.c.d.c.sanguino
+    link: https://www.ntnu.edu/employees/weiwei.tian
   - icon: github
     icon_pack: fab
-    link: https://www.ntnu.no/ansatte/beatriz.i.s.c.d.c.sanguino
+    link: https://www.ntnu.edu/employees/weiwei.tian
 
 
 
@@ -54,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'beatriz.i.s.c.d.c.sanguino@ntnu.no'
+email: 'weiwei.tian@ntnu.no'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

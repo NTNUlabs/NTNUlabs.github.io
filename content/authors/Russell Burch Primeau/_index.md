@@ -1,29 +1,30 @@
 ---
 # Display name
-title: Beatriz Sanguino
+title:Russell Burch Primeau
 
 # Full name (for SEO)
-first_name: Beatriz Sanguino
-last_name:  Sanguino
+first_name: Russell Burch 
+last_name:  Primeau
 
 # Username (this should match the folder name)
 authors:
-  - Beatriz Sanguino
+  -Russell Burch Primeau
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-# role: Associate Professor
+#role: Associate Professor
  
 
 # Organizations/Affiliations
 organizations:
+  - name: Personal Information
+    url: 'https://www.ntnu.no/ansatte/russell.b.primeau'
   - name: Stipendiat
   - name: Institutt for havromsoperasjoner og byggteknikk
     url: 'https://www.ntnu.no/ihb'
-  - name: Institutt for språk og litteratur
-    url: 'https://www.ntnu.no/isl'
+
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -34,16 +35,16 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:beatriz.i.s.c.d.c.sanguino@ntnu.no'
+    link: 'mailto:russell.b.primeau@ntnu.no'
   - icon: google-scholar
     icon_pack: ai
-    link: https://www.ntnu.no/ansatte/beatriz.i.s.c.d.c.sanguino
-  - icon: twitter
+    link: https://scholar.google.com/citations?user=BORtl78AAAAJ&hl=en
+  - icon: instagram
     icon_pack: fab
-    link: https://www.ntnu.no/ansatte/beatriz.i.s.c.d.c.sanguino
+    link: https://www.linkedin.com/in/russell-primeau-20641692/
   - icon: github
     icon_pack: fab
-    link: https://www.ntnu.no/ansatte/beatriz.i.s.c.d.c.sanguino
+    link: https://github.com/russellprimeau
 
 
 
@@ -54,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'beatriz.i.s.c.d.c.sanguino@ntnu.no'
+email: 'russell.b.primeau@ntnu.no'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
