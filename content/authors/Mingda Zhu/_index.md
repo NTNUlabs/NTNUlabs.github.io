@@ -18,7 +18,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Institutt for ingeniørvitenskap
+  - name: Institutt for ingeniorvitenskap
     url: 'https://www.uia.no/om-uia/fakultet/teknologi-og-realfag/ingeniorvitenskap/index.html'
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,4 +57,4 @@ user_groups:
  
 ---
 ## Forskningsgrupper
- - 🔗 [Robotikk og automasjon](https://www.uia.no/forskning/forskningsgrupper/tr/robotikk-automasjon.html)  
+ -  [Robotikk og automasjon](https://www.uia.no/forskning/forskningsgrupper/tr/robotikk-automasjon.html)  
