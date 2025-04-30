@@ -24,8 +24,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
- interests:
-  - My research interests mainly lie in digitalization, control, optimization & artificial intelligence. More specifically,
+interests:
+  - My research interests mainly lie in digitalization, control, optimization & artificial intelligence. More specificall
 
 education:
   courses:
