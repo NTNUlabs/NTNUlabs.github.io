@@ -28,7 +28,8 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-
+---
+---
 - block: markdown
   content:
     title: Additional Team Members
@@ -60,6 +61,5 @@ sections:
       - Pedersen Birger Skogeng  
       - Wei Li  
       - Yueri Cai
-
 
 ---
