@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-05-01
 
 type: landing
 
@@ -18,6 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: house
+          icon_pack: fas
+          text: Lab information
+          url: https://ntnulabs.github.io
       - title: 
         content: 
         align: left
