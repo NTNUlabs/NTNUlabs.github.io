@@ -1,0 +1,33 @@
+<footer class="footer mt-auto py-4 text-center">
+    <div class="container">
+  
+      {{ with site.Params.footer.contact }}
+        {{ if .enable }}
+          <h5>{{ .title }}</h5>
+          <p>{{ .address }}<br>
+          <a href="tel:{{ .phone }}">{{ .phone }}</a></p>
+        {{ end }}
+      {{ end }}
+  
+      {{ with site.Params.footer.social }}
+        {{ if .enable }}
+          <h5>{{ .title }}</h5>
+          <p>
+            {{ range .links }}
+              <a href="{{ .link }}" target="_blank">
+                <i class="{{ .icon_pack }} fa-2x fa-{{ .icon }} mx-2"></i>
+              </a>
+            {{ end }}
+          </p>
+        {{ end }}
+      {{ end }}
+  
+      {{ with site.Params.footer.copyright }}
+        <p class="text-muted small mt-3">
+          {{ replace .notice "{year}" now.Year | markdownify }}
+        </p>
+      {{ end }}
+  
+    </div>
+  </footer>
+  
