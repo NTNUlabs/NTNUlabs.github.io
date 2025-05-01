@@ -10,11 +10,12 @@ sections:
       title: Welcome to the Intelligent Systems Lab!
       subtitle: Research in intelligent systems for maritime and robotics
       text: |
-        Our research group is based under the MOVE research framework and belongs to <a href="https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering" target="_blank">the Department of Ocean Operations and Civil Engineering</a> under <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>.  
-        <br><br>The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates who are working on related topics in intelligent systems in maritime and robotics.
+        Our research group is based under the MOVE research framework and belongs to <a href="https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering" target="_blank">the Department of Ocean Operations and Civil Engineering</a> under <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>.
+
+        The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
       image:
         filename: toghter.jpg
-        alt_text: Group photo of the Intelligent Systems Lab
+        alt_text: Group photo
     design:
       alignment: right
       width: normal
@@ -23,22 +24,18 @@ sections:
     content:
       title: Our Projects
       text: |
-        ### Introduction
+        ### Overview
 
-        Demanding Marine Operations is a core of the maritime industry. Introducing a more simulation-driven design process accelerates lessons learned and allows testing of more alternatives.
+        Demanding Marine Operations is a core of the maritime industry...
 
-        ### Project List {align=right}
+        ### List {align=right}
 
-        #### Centre for Research-based Innovation (SFI)
         - [SFI MOVE (2015–2023)](/project/#sfi-move)
-        - [SFI Offshore Mechatronics (2015–2023)](/project/#sfi-offshore)
-
-        #### EU Projects
         - [Arrowhead Tools (2019–2022)](/project/#arrowhead)
-        - [Robotic Safe Adaptation (2024–2026)](/project/#robotic-safe)
     design:
       columns: '2'
       gap: 64
+
 
   - block: markdown
     content:
