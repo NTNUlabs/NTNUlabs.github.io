@@ -117,10 +117,6 @@ publications:
   date_format: January 2006
   citation_style: apa
 
-
-# Homepage widget order
-home_sections_order:
-  - hero
-  - about
-  - projects
-  - contact
+# size
+custom_css:
+  - css/custom.css
