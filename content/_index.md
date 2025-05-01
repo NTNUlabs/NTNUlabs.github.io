@@ -24,10 +24,8 @@ sections:
     content:
       title: Research Focus
       text: |    
-        The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, thermal analysis, control, etc...
-
-        The second distinct research in the lab is in the area of physics-data cooperative hybrid modelling and control of marine vessels...
-
+        The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, thermal analysis, control, etc. While conventional approaches typically involve the separate simulation of these subsystems, the team leading by Prof. Zhang pioneered the development of an integrated co-simulation framework for marine surface vessels, seamlessly incorporating over 10 multidisciplinary subsystems. The research works extended to the creation of a digital twin for marine vessels in real operation as the first, enabling remote monitoring and control of these complex systems. The second distinct research in the lab is in the area of physics-data cooperative hybrid modelling and control of marine vessels considering environmental and operational uncertainties. Unlike classic model-based or pure data-driven approaches, there have been few attempts to build predictive models by organically incorporating them together in a holistic manner. One of the primary reasons is that the model complexity due to frequent interaction with water results in an inaccurate description of marine vehicle dynamics. Furthermore, uncertainties and environmental disturbance including as operational conditional changing, wind and waves, add extra complexity and hinder obtaining ship dynamic model with high fidelity.
+        
   - block: collection
     content:
       title: Latest News
