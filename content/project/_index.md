@@ -32,26 +32,36 @@ To develop the next-generation simulator as an open, standardized framework for 
 
 ---
 
-## <span id="sfi-move">SFI MOVE (2015–2023)</span>
+## SFI MOVE (2015–2023)
 
-This project aimed to...
+This Centre for Research-based Innovation focused on simulation-based innovation in demanding marine operations, with the goal of reducing development time and improving operational safety. The project brought together academia and industry partners to create a robust platform for future maritime innovation.
 
-## <span id="sfi-offshore">SFI Offshore Mechatronics (2015–2023)</span>
+---
 
-This project focused on...
+## SFI Offshore Mechatronics (2015–2023)
 
-## <span id="arrowhead">EU H2020: Arrowhead Tools (2019–2022)</span>
+This project aimed to develop new intelligent solutions for offshore equipment, focusing on predictive maintenance, remote diagnostics, and energy efficiency. It contributed to the development of next-generation mechatronic systems for maritime operations.
 
-This EU-funded project...
+---
 
-## <span id="robotic-safe">EU RIA: Robotic Safe Adaptation (2024–2026)</span>
+## EU H2020: Arrowhead Tools (2019–2022)
 
-This ongoing project...
+This EU-funded project addressed engineering digitalisation through toolchain integration, automation, and improved interoperability. It helped reduce time-to-market for complex, software-intensive industrial systems by improving development efficiency.
 
-## <span id="krill-nutrition">IPN: Krill as Alternative Protein (2020–2022)</span>
+---
 
-This innovation focused on...
+## EU RIA: Robotic Safe Adaptation (2024–2026)
 
-## <span id="ship-autonomy">IPN: Ship Autonomy in Harbour (2019–2021)</span>
+This ongoing Research and Innovation Action aims to build adaptive robotic systems capable of safe learning and decision-making in uncertain environments. The project develops technologies for risk assessment, context awareness, and behavior adaptation.
 
-This project explores...
+---
+
+## IPN: Krill as Alternative Protein (2020–2022)
+
+The project explored innovative processing technologies for krill as a sustainable human protein source. It integrated biological research with automation and quality control, contributing to Norway’s bioeconomy and sustainable food goals.
+
+---
+
+## IPN: Ship Autonomy in Harbour (2019–2021)
+
+This project focused on developing autonomous harbour manoeuvring and docking capabilities for ships. Using onboard sensor fusion, situational awareness modules, and AI-based navigation systems, it improved safety and reduced reliance on manual control.
