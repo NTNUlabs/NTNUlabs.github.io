@@ -79,13 +79,12 @@ sections:
          **Internship & Summer Project**
          There is no available position in this category. Please keep attention.
 
-         
-    - block: markdown
+
+  - block: markdown
     content:
       title: Vacancy
       subtitle: ''
       text: 
-
     design:
       columns: '1'
       background:
