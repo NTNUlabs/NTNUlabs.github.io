@@ -63,10 +63,14 @@ footer:
         icon_pack: fab
         link: "https://youtube.com/YOUR_CHANNEL"
 
-  copyright: "© Intelligent Systems Lab | Department of Ocean Operations and Civil Engineering | NTNU"
+  copyright: 
+    notice: '© {year} Intelligent Systems Lab | Department of Ocean Operations and Civil Engineering | NTNU'
+  license:
+    enable: false
 
   credits:
     enable: false
+
 
 # Localization
 
