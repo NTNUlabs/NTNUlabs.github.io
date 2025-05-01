@@ -33,7 +33,7 @@ sections:
               brightness: 0.0
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: Intelligent Systems Lab
         content: 'Just opened last month!'
         align: right
         background:
