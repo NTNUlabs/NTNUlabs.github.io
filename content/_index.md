@@ -3,35 +3,6 @@
 title:
 date: 2025-05-01
 type: landing
----
-
-  <!-- 左侧文字 -->
-  <div class="col-md-6 d-flex flex-column justify-content-center">
-    <h2>Welcome to the Intelligent Systems Lab</h2>
-    <p class="lead">Research in intelligent systems for maritime and robotics.</p>
-    <p>
-      Our research group is based under the MOVE research framework and belongs to
-      the <a href="https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering" target="_blank">Department of Ocean Operations and Civil Engineering</a>
-      under the <a href="https://www.ntnu.edu/iv" target="_blank">Faculty of Engineering</a>.
-    </p>
-  </div>
-
-  <!-- 右侧轮播图 -->
-  <div class="col-md-6">
-    <div id="labCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="/media/coders.jpg" class="d-block w-100" alt="Slide 1">
-        </div>
-        <div class="carousel-item">
-          <img src="/media/contact.jpg" class="d-block w-100" alt="Slide 2">
-        </div>
-        <div class="carousel-item">
-          <img src="/media/welcome.jpg" class="d-block w-100" alt="Slide 3">
-        </div>
-      </div>
-    </div>
-  </div>
 
 sections:
   - block: hero
