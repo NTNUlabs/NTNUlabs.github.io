@@ -1,16 +1,21 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Robotics"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
-date: 2025-05-01T00:48:17Z
-lastmod: 2025-05-01T00:48:17Z
-featured: false
-draft: false
+title: "Our Projects"
+layout: list  # list layout = 左侧正文 + 右侧目录列表
+summary: "Overview of ongoing research projects."
+weight: 10
+
+# title: "Robotics"
+# subtitle: ""
+# summary: ""
+# authors: []
+# tags: []
+# categories: []
+# date: 2025-05-01T00:48:17Z
+# lastmod: 2025-05-01T00:48:17Z
+# featured: false
+# draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
