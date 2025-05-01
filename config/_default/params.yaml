@@ -58,10 +58,13 @@ footer:
     links:
       - icon: twitter
         icon_pack: fab
-        link: "https://twitter.com/YOUR_HANDLE"
+        link: "https://twitter.com/NTNU_ISL"
       - icon: youtube
         icon_pack: fab
-        link: "https://youtube.com/YOUR_CHANNEL"
+        link: "https://www.youtube.com/channel/UC4zkSMXSMHyTlepIwaylY_A"
+      - icon: github
+        icon_pack: fab
+        link: "https://github.com/NTNUlabs/NTNUlabs.github.io"
 
   copyright: 
     notice: '© {year} Intelligent Systems Lab | Department of Ocean Operations and Civil Engineering | NTNU'
