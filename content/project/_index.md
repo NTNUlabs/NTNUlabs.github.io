@@ -9,7 +9,7 @@ date: 2025-05-01T00:48:17Z
 lastmod: 2025-05-01T00:48:17Z
 featured: false
 draft: false
-layout: page
+layout: list
 weight: 10
 ---
 

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container my-5">
+  <div class="row">
+    <!-- 左栏：正文 Markdown 渲染 -->
+    <div class="col-md-6">
+      <div class="content-left">
+        {{ .Content | markdownify }}
+      </div>
+    </div>
+
+    <!-- 右栏：手动项目导航 -->
+    <div class="col-md-6">
+      <div class="content-right">
+        <h3>Project List</h3>
+        <ul>
+          <li><a href="#sfi-move">SFI MOVE (2015–2023)</a></li>
+          <li><a href="#sfi-offshore">SFI Offshore Mechatronics</a></li>
+          <li><a href="#arrowhead">Arrowhead Tools (2019–2022)</a></li>
+          <li><a href="#robotic-safe">Robotic Safe Adaptation</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
