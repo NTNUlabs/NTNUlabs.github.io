@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div class="container my-5">
+  <div class="row">
+    <!-- 左栏 -->
+    <div class="col-md-8">
+      <div class="content-left" style="font-size: 14px;">
+        <h3>Our Research on Robotics</h3>
+        {{ .Content | markdownify }}
+      </div>
+    </div>
+
+    <!-- 右栏 -->
+    <div class="col-md-4">
+      <div class="content-right" style="font-size: 0.75rem; border-left: 1px solid #ccc; padding-left: 20px;">
+        <h3>List</h3>
+
+        <!-- 单个项目 -->
+        <p>
+          <a href="/project/dfg-climber/">DFG: Biologically Inspired Modular Climbing Caterpillar Robot Using Passive Adhesion</a>
+          <strong>(2010–2012)</strong>
+        </p>
+
+        <!-- 分类一 -->
+        <p><strong>Modular Robot</strong></p>
+        <ul>
+          <li><a href="/project/y1-module/">Y-1 Module</a></li>
+          <li><a href="/project/cube-m/">Cube-M</a></li>
+          <li><a href="/project/modgrasp/">ModGrasp</a></li>
+          <li><a href="/project/reflex-mech/">Reflex Mechanism</a></li>
+        </ul>
+
+        <!-- 分类二 -->
+        <p><strong>Robotic Arms</strong></p>
+        <ul>
+          <li><a href="/project/robotic-arm-a/">Robotic Arm A</a></li>
+          <li><a href="/project/robotic-arm-b/">Robotic Arm B</a></li>
+        </ul>
+
+        <!-- 分类三 -->
+        <p><strong>Sky Cleaners</strong></p>
+        <ul>
+          <li><a href="/project/sky-cleaner-1/">Sky Cleaner I</a></li>
+          <li><a href="/project/sky-cleaner-2/">Sky Cleaner II</a></li>
+          <li><a href="/project/sky-cleaner-3/">Sky Cleaner III</a></li>
+          <li><a href="/project/sky-cleaner-4/">Sky Cleaner IV</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
