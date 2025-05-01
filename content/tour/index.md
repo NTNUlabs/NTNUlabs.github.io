@@ -22,7 +22,7 @@ sections:
           icon: house
           icon_pack: fas
           text: Lab information
-          url: https://ntnulabs.github.io
+          url: 'https://example.com/'
       - title: 
         content: 
         align: left
