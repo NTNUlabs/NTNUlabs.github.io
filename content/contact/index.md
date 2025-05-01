@@ -37,7 +37,7 @@ sections:
         longitude: '6.233797'
       
       directions: |
-        Bus stops named "Campus Ålesund"; timetables available at Fram.
+        Bus stops named "Campus Ålesund"; timetables available at Fram.  
         Taxi Services:
         - NorgesTaxi: Phone 08000
         - Ålesund Taxi: Phone  +47 70 10 30 00
