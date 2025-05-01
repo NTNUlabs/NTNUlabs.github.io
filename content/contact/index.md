@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact&Vacancy
 date: 2025-04-29
 
 type: landing
@@ -69,9 +69,18 @@ sections:
 
   - block: markdown
     content:
-      title:
+      title: Vacancy
       subtitle: ''
-      text:
+      text: |
+         **Faculty Professorate**  
+         There is no available position in this category. Please keep attention.
+         **Post Doctorate**  
+         There is no available position in this category. Please keep attention.
+         **PhD Candidate**
+         - PhD Candidate, [Data infrastructure and benchmarking of co-simulation for demanding marine operations](https://www.jobbnorge.no/en/available-jobs/job/201102/phd-candidate-data-infrastructure-and-benchmarking-of-co-simulation-for-demanding-marine-operations) (16th April 2021)
+         **Internship & Summer Project**
+         There is no available position in this category. Please keep attention.
+
     design:
       columns: '1'
       background:
