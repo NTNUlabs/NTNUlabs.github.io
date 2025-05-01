@@ -9,7 +9,7 @@ sections:
     content:
       title: Course
       text: |
-        **Course**
+        **Course**  
          [IP304814 - Introduction to Mechatronics](https://www.ntnu.edu/studies/courses/IP304814)  
          [IP506921 - Mechatronics and Systems Integration](https://www.ntnu.edu/studies/courses/IP506921#tab=omEmnet)  
          [IP505245 - Applied AI and Control](https://www.ntnu.edu/studies/courses/IP505245#tab=omEmnet)  
