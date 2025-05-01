@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2025-04-30
+date: 2025-05-01
 type: landing
 
 sections:
@@ -21,15 +21,32 @@ sections:
 
   - block: markdown
     content:
+      title: Our Projects
+      text: |
+        ### Introduction
+
+        Demanding Marine Operations is a core of the maritime industry. Introducing a more simulation-driven design process accelerates lessons learned and allows testing of more alternatives.
+
+        ### Project List {align=right}
+
+        #### Centre for Research-based Innovation (SFI)
+        - [SFI MOVE (2015–2023)](/project/#sfi-move)
+        - [SFI Offshore Mechatronics (2015–2023)](/project/#sfi-offshore)
+
+        #### EU Projects
+        - [Arrowhead Tools (2019–2022)](/project/#arrowhead)
+        - [Robotic Safe Adaptation (2024–2026)](/project/#robotic-safe)
+    design:
+      columns: '2'
+      gap: 64
+
+  - block: markdown
+    content:
       title: Research Focus
       text: |    
-        The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, thermal analysis, control, etc. While conventional approaches typically involve the separate simulation of these subsystems, the team led by Prof. Zhang pioneered the development of an integrated co-simulation framework for marine surface vessels, seamlessly incorporating over 10 multidisciplinary subsystems.
+        The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, thermal analysis, control, etc...
 
-        The research works extended to the creation of a digital twin for marine vessels in real operation as the first, enabling remote monitoring and control of these complex systems.
-
-        The second distinct research in the lab is in the area of physics-data cooperative hybrid modelling and control of marine vessels considering environmental and operational uncertainties. Unlike classic model-based or pure data-driven approaches, there have been few attempts to build predictive models by organically incorporating them together in a holistic manner.
-
-        One of the primary reasons is that the model complexity due to frequent interaction with water results in an inaccurate description of marine vehicle dynamics. Furthermore, uncertainties and environmental disturbance including operational condition changes, wind and waves, add extra complexity and hinder obtaining ship dynamic models with high fidelity.
+        The second distinct research in the lab is in the area of physics-data cooperative hybrid modelling and control of marine vessels...
 
   - block: collection
     content:
