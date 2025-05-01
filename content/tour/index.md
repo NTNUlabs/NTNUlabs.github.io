@@ -18,14 +18,14 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 
+        content: 
         align: left
         background:
           image:
             filename: information.png
             filters:
-              brightness: 0.7
+              brightness: 0.0
           position: center
           color: '#555'
       - title: World-Class Semiconductor Lab
