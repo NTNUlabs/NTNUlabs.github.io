@@ -49,7 +49,7 @@ main:
     url: contact
     weight: 70
 
-  - name: Course
+  - name: Contact&Vacancy
     url: course
     weight: 60
 

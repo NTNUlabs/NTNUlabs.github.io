@@ -9,8 +9,6 @@ sections:
     content:
       title: Contact
       text: |-
-        
-        
         **Intelligent Systems Lab**  
         Location: [Lanterna L103, Larsgårdsvegen 2, 6009, Ålesund, Møre og Romsdal, Norway](https://www.google.com/maps/place/NTNU+Lab-bygget/@62.4721526,6.2340751,17z/data=!4m6!3m5!1s0x4616db0449669e7f:0x14edc63fb35c4d86!8m2!3d62.4722109!4d6.2344732!16s%2Fg%2F11fpsqdh54?entry=ttu&g_ep=EgoyMDI1MDQyOC4wIKXMDSoASAFQAw%3D%3D)
         Website: [ Intelligent Systems Lab](https://www.ntnu.edu/ihb/intelligent-systems-lab)
@@ -80,6 +78,13 @@ sections:
          - PhD Candidate, [Data infrastructure and benchmarking of co-simulation for demanding marine operations](https://www.jobbnorge.no/en/available-jobs/job/201102/phd-candidate-data-infrastructure-and-benchmarking-of-co-simulation-for-demanding-marine-operations) (16th April 2021)
          **Internship & Summer Project**
          There is no available position in this category. Please keep attention.
+
+         
+    - block: markdown
+    content:
+      title: Vacancy
+      subtitle: ''
+      text: 
 
     design:
       columns: '1'
