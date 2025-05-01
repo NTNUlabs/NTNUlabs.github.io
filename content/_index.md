@@ -11,7 +11,6 @@ sections:
       subtitle: Research in intelligent systems for maritime and robotics
       text: |
         Our research group is based under the MOVE research framework and belongs to <a href="https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering" target="_blank">the Department of Ocean Operations and Civil Engineering</a> under <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>.
-
         The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
       image:
         filename: toghter.jpg
@@ -19,22 +18,6 @@ sections:
     design:
       alignment: right
       width: normal
-
-  - block: markdown
-    content:
-      title: Our Projects
-      text: |
-        ### Overview
-
-        Demanding Marine Operations is a core of the maritime industry...
-
-        ### List {align=right}
-
-        - [SFI MOVE (2015–2023)](/project/#sfi-move)
-        - [Arrowhead Tools (2019–2022)](/project/#arrowhead)
-    design:
-      columns: '2'
-      gap: 64
 
 
   - block: markdown
