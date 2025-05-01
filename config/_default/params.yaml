@@ -44,13 +44,29 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Intelligent Systems Lab, NTNU in Ålesund. All rights reserved. {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+  enable: true
+
+  contact:
+    enable: true
+    title: "Contact Us"
+    address: "Lanterna L103, Larsgårdsvegen 2, 6009, Ålesund, Møre og Romsdal, Norway"
+    phone: "+47 70161621"
+
+  social:
+    enable: true
+    title: "Media"
+    links:
+      - icon: twitter
+        icon_pack: fab
+        link: "https://twitter.com/YOUR_HANDLE"
+      - icon: youtube
+        icon_pack: fab
+        link: "https://youtube.com/YOUR_CHANNEL"
+
+  copyright: "© Intelligent Systems Lab | Department of Ocean Operations and Civil Engineering | NTNU"
+
+  credits:
+    enable: false
 
 # Localization
 
