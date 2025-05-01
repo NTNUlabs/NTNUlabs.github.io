@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: togther.jpg
+            filename: toghter.jpg
             filters:
               brightness: 0.7
           position: right
