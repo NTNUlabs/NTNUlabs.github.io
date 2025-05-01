@@ -11,7 +11,7 @@ design:
 
 ### Overview
 
-Demanding Marine Operations is a core of the maritime industry...（此处写介绍）
+Demanding Marine Operations is a core of the maritime industry. Today, the time frame with a new design or an alternative procedure—such as anchor handling, platform supply, subsea installation, or buoy mooring—transferred to industrial and academic teams may easily extend to 2–3 years. Introducing a more simulation-driven design process...
 
 ### List {align=right}
 
