@@ -10,7 +10,7 @@ main:
 
   - name: Tour
     url: tour
-    weight: 90
+    weight: 10
   - name: News
     url: post
     weight: 100
