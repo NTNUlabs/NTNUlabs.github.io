@@ -6,10 +6,11 @@
 main:
   - name: Tour
     url: tour
-    weight: 10
+    weight: 90
   - name: News
     url: post
-    weight: 20
+    weight: 100
+
   - name: People
     url: people
     weight: 30
@@ -39,11 +40,13 @@ main:
   - name: Publications
     url: publication
     weight: 50
+
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
+    
   - name: Course
     url: course
-    weight: 70
+    weight: 60
 
 
