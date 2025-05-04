@@ -12,7 +12,7 @@ publication: IEEE Transactions on Intelligent Transportation Systems
 publication_short: IEEE TITS
 abstract: "This study presents a comprehensive review of digital twin applications across industries, focusing on how knowledge transfer occurs from automotive and aviation sectors into maritime applications."
 featured: true
-publication_types: ["2"]  # 2 for journal articles
+publication_types: ["Journal and Conference Papers"]  # 2 for journal articles
 url_pdf: "digital-twin-survey.pdf"  # 如果你有 PDF 可以放这里
 url_code: ""
 url_dataset: ""

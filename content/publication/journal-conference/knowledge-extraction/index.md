@@ -8,7 +8,7 @@ authors:
   - Guoyuan Li
   - Houxiang Zhang
 date: 2025-01-01
-publication_type: "2"  # 期刊文章
+publication_type: "Journal and Conference Papers"  # 期刊文章
 publication: "Ocean Engineering, vol. 331"
 doi: "10.1016/j.oceaneng.2025.121268"
 url_pdf: "https://doi.org/10.1016/j.oceaneng.2025.121268"
