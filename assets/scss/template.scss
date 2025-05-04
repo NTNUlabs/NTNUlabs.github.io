@@ -22,6 +22,11 @@ main h1 {
   font-size: 2rem;
 }
 
+.navbar-brand {
+  font-size: 1.2rem;  /* 默认约 1.5rem，可自行调小 */
+  font-weight: 600;   /* 可选，控制粗细 */
+}
+
 
 
 
@@ -29,6 +34,10 @@ main h1 {
 body {
   font-size: 1rem; //  14px, 18px, 1rem 
 }
+
+
+
+
 /* 标题字体大小调整 */
 h1 {
   font-size: 2rem;     /* 默认约为 2.5rem，可调小一点 */
