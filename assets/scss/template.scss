@@ -81,7 +81,7 @@ h4 {
 .article-container img,
 .page-body img,
 .content img {
-  max-width: 70%;
+  max-width: 40%;
   height: auto;
   display: block;
   margin: 1rem auto; /* 可选：图片居中并留白 */
@@ -92,7 +92,6 @@ body {
   background-color: #e8f5e9 !important;  /* 淡绿色豆沙色 */
   color: #1a1a1a;  /* 保持文字深色，确保可读性 */
 }
-
 /* 修正文章容器背景（Markdown区块、正文内容） */
 .article-container,
 .page-body,
@@ -130,3 +129,31 @@ code {
 .section:not(:last-child) {
   border-bottom: none;
 }
+/* 顶部导航栏变护眼色 */
+nav.navbar,
+.navbar-menu,
+.navbar-start,
+.navbar-end {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
+}
+
+/* Contact（联系模块）背景统一 */
+.section-contact,
+.widget-contact,
+.contact,
+.contact-form {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
+}
+
+/* Markdown页面/自定义页面widget容器 */
+.widget,
+.widget-page,
+.widget-markdown,
+.markdown-body {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
+}
+
+/* 设置全局背景颜色为护眼绿色 */
