@@ -566,48 +566,23 @@ Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesu
 ---
 
 ### 2012
-1. Shengyong Chen, Jianwei Zhang, Houxiang Zhang, N.M. Kwok, Youfu Li:  
-   *Intelligent Lighting Control for Vision-Based Robotic Manipulation*,  
-   **IEEE Transactions on Industrial Electronics**, Vol. 59, No. 8, 2012, pp. 3254–3263.
+1. Shengyong Chen, Jianwei Zhang, Houxiang Zhang, N.M. Kwok, Youfu Li: *Intelligent Lighting Control for Vision-Based Robotic Manipulation*, **IEEE Transactions on Industrial Electronics**, Vol. 59, No. 8, 2012, pp. 3254–3263.
 
-2. Chunyan Yao, Jianwei Zhang, Guang Wu, Houxiang Zhang:  
-   *Motion Analysis of Live Objects by Super-Resolution Fluorescence Microscopy*,  
-   **Computational and Mathematical Methods in Medicine**, Vol. 2012, 2012, Article ID 859398, 8 pages.
+2. Chunyan Yao, Jianwei Zhang, Guang Wu, Houxiang Zhang: *Motion Analysis of Live Objects by Super-Resolution Fluorescence Microscopy*,  **Computational and Mathematical Methods in Medicine**, Vol. 2012, 2012, Article ID 859398, 8 pages.
 
-3. Kun Wang, Wei Wang, Houxiang Zhang:  
-   *Analysis of Gait and Mechanical Property of Wall-climbing Caterpillar Robot*,  
-   **Journal of Computers**, vol. 7, 2012, pp. 706–715.
+3. Kun Wang, Wei Wang, Houxiang Zhang: *Analysis of Gait and Mechanical Property of Wall-climbing Caterpillar Robot*,  **Journal of Computers**, vol. 7, 2012, pp. 706–715.
 
-4. Kun Wang, Wei Wang, Houxiang Zhang, Jiancheng Fang:  
-   *Suction Force of Vibrating Suction Method Based on Pi Theorem: Analysis and Experiment*,  
-   **Vacuum**, Vol. 86, Issue 12, 20 July, 2012, pp. 1783–1788.
+4. Kun Wang, Wei Wang, Houxiang Zhang, Jiancheng Fang:*Suction Force of Vibrating Suction Method Based on Pi Theorem: Analysis and Experiment*,  **Vacuum**, Vol. 86, Issue 12, 20 July, 2012, pp. 1783–1788.
 
-5. Cong Liu, Filippo Sanfilippo, Houxiang Zhang, Hans Petter Hildre, Chang Liu, Shusheng Bi:  
-   *Locomotion Analysis of A Modular Pentapedal Walking Robot*,  
-   **The Proceedings of the 26th European Conference on Modelling and Simulation (ECMS 2012)**,  
-   Klaus G. Troitzsch, Michael Möhring, Ulf Lotzmann (Eds.), May 29 – June 2, 2012, Koblenz, Germany.  
-   ISBN: 978-0-9564944-4-3 / 978-0-9564944-5-0 (CD) [📄](#) [❝](#)
+5. Cong Liu, Filippo Sanfilippo, Houxiang Zhang, Hans Petter Hildre, Chang Liu, Shusheng Bi:  *Locomotion Analysis of A Modular Pentapedal Walking Robot*,  **The Proceedings of the 26th European Conference on Modelling and Simulation (ECMS 2012)**, Klaus G. Troitzsch, Michael Möhring, Ulf Lotzmann (Eds.), May 29 – June 2, 2012, Koblenz, Germany. ISBN: 978-0-9564944-4-3 / 978-0-9564944-5-0 (CD) [📄](#) [❝](#)
 
-6. Dennis Krupke, Guoyuan Li, Jianwei Zhang, Houxiang Zhang, Hans Petter Hildre:  
-   *Flexible Modular Robotic Simulation Environment for Research and Education*,  
-   **Proceedings of the 26th European Conference on Modelling and Simulation (ECMS 2012)**,  
-   Klaus G. Troitzsch, Michael Möhring, Ulf Lotzmann (Eds.), May 29 – June 2, 2012, Koblenz, Germany.  
-   ISBN: 978-0-9564944-4-3 / 978-0-9564944-5-0 (CD) [📄](#) [❝](#)
+6. Dennis Krupke, Guoyuan Li, Jianwei Zhang, Houxiang Zhang, Hans Petter Hildre:  *Flexible Modular Robotic Simulation Environment for Research and Education*, **Proceedings of the 26th European Conference on Modelling and Simulation (ECMS 2012)**,  Klaus G. Troitzsch, Michael Möhring, Ulf Lotzmann (Eds.), May 29 – June 2, 2012, Koblenz, Germany. ISBN: 978-0-9564944-4-3 / 978-0-9564944-5-0 (CD) [📄](#) [❝](#)
 
-7. Junhao Xiao and Benjamin Adler and Houxiang Zhang:  
-   *3D Point Cloud Registration Based on Planar Surfaces*,  
-   **2012 IEEE International Conference on Multisensor Fusion and Information Integration**,  
-   September 13–15, 2012, Hamburg, Germany, pp. 40–45.
+7. Junhao Xiao and Benjamin Adler and Houxiang Zhang:  *3D Point Cloud Registration Based on Planar Surfaces*,  **2012 IEEE International Conference on Multisensor Fusion and Information Integration**,  September 13–15, 2012, Hamburg, Germany, pp. 40–45.
 
-8. Martin Noeske, Dennis Krupke, Norman Hendrich, Jianwei Zhang, Houxiang Zhang:  
-   *Interactive Control Parameter Investigation Of Modular Robotic Simulation Environment Based On Wiimote–HCI’s Multi Sensor Fusion*,  
-   **2012 IEEE International Conference on Multisensor Fusion and Information Integration**,  
-   Hamburg, Germany, pp. 478–483.
+8. Martin Noeske, Dennis Krupke, Norman Hendrich, Jianwei Zhang, Houxiang Zhang:  *Interactive Control Parameter Investigation Of Modular Robotic Simulation Environment Based On Wiimote–HCI’s Multi Sensor Fusion*,  **2012 IEEE International Conference on Multisensor Fusion and Information Integration**, Hamburg, Germany, pp. 478–483.
 
-9. Filippo Sanfilippo, Gionata Salvietti, Houxiang Zhang, Hans Petter Hildre, Domenico Prattichizzo:  
-   *Efficient Modular Grasping: An Iterative Approach*,  
-   In Proceedings of the **4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)**,  
-   Rome, Italy, 2012, pp. 1281–1286.
+9. Filippo Sanfilippo, Gionata Salvietti, Houxiang Zhang, Hans Petter Hildre, Domenico Prattichizzo:  *Efficient Modular Grasping: An Iterative Approach*,  In Proceedings of the **4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)**, Rome, Italy, 2012, pp. 1281–1286.
 
 ---
 
