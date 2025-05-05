@@ -541,55 +541,27 @@ Welcome to our full list of publications. Click on any title below to view more 
 ---
 
 ### 2013
-1. Junhao Xiao, Jianhua Zhang, Benjamin Adler, Houxiang Zhang, Jianwei Zhang:  
-   *Three-dimensional point cloud plane segmentation in both structured and unstructured environments*,  
-   **Robotics and Autonomous Systems**, Volume 61, Issue 12, December 2013, pp. 1641–1652.
+1. Junhao Xiao, Jianhua Zhang, Benjamin Adler, Houxiang Zhang, Jianwei Zhang:*Three-dimensional point cloud plane segmentation in both structured and unstructured environments*,  
+**Robotics and Autonomous Systems**, Volume 61, Issue 12, December 2013, pp. 1641–1652.
 
-2. Junhao Xiao, Benjamin Adler, Jianwei Zhang, Houxiang Zhang:  
-   *Planar Segment Based Three-dimensional Point Cloud Registration in Outdoor Environments*,  
-   **Journal of Field Robotics**, vol. 30, no. 4, pp. 552–582, 2013.
+2. Junhao Xiao, Benjamin Adler, Jianwei Zhang, Houxiang Zhang:*Planar Segment Based Three-dimensional Point Cloud Registration in Outdoor Environments*, **Journal of Field Robotics**, vol. 30, no. 4, pp. 552–582, 2013.
 
-3. Filippo Sanfilippo, Hans Petter Hildre, Vilmar Æsøy, Houxiang Zhang, Eilif Pedersen:  
-   *Flexible Modeling and Simulation Architecture for Haptics Control of Maritime Cranes and Robotics Arms*,  
-   in **The Proceedings 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
-   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 235–242.  
-   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+3. Filippo Sanfilippo, Hans Petter Hildre, Vilmar Æsøy, Houxiang Zhang, Eilif Pedersen: *Flexible Modeling and Simulation Architecture for Haptics Control of Maritime Cranes and Robotics Arms*, in **The Proceedings 27th European Conference on Modeling and Simulation (ECMS 2013)**, Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 235–242. ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
 
-4. Siebe B. van Albada, G. Dick van Albada, Hans Petter Hildre, Houxiang Zhang:  
-   *A Novel Approach to Anti-sway Control for Marine Shipboard Cranes*,  
-   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
-   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 249–256.  
-   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+4. Siebe B. van Albada, G. Dick van Albada, Hans Petter Hildre, Houxiang Zhang: *A Novel Approach to Anti-sway Control for Marine Shipboard Cranes*, in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**, Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 249–256. ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
 
-5. Cong Liu, Eilif Pedersen, Vilmar Æsøy, Hans Petter Hildre, Houxiang Zhang:  
-   *Dynamic Modelling of the “SEARAZOR”–An Interdisciplinary Marine Vehicle for Ship Hull Inspection and Maintenance*,  
-   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
-   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 705–711.  
-   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+5. Cong Liu, Eilif Pedersen, Vilmar Æsøy, Hans Petter Hildre, Houxiang Zhang:*Dynamic Modelling of the “SEARAZOR”–An Interdisciplinary Marine Vehicle for Ship Hull Inspection and Maintenance*, in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**, Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 705–711.ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
 
-6. Yichun Xu, Cong Liu, Dongchen Qin, Houxiang Zhang:  
-   *Thrust Analysis on a Single-drive Robotic Fish*,  
-   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
-   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 719–725.  
-   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+6. Yichun Xu, Cong Liu, Dongchen Qin, Houxiang Zhang:*Thrust Analysis on a Single-drive Robotic Fish*, in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
+Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 719–725. ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
 
-7. Yueri Cai, Jun Gao, Shusheng Bi, Cong Liu, Houxiang Zhang:  
-   *Pitching Stability Simulation of a Bionic Cownose Ray*,  
-   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
-   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 726–732.  
-   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+7. Yueri Cai, Jun Gao, Shusheng Bi, Cong Liu, Houxiang Zhang: *Pitching Stability Simulation of a Bionic Cownose Ray*, in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**, Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 726–732. ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
 
-8. Filippo Sanfilippo, Lars Ivar Hatledal, Hans Georg Schaathun, Kristin Ytterstad Pettersen, Houxiang Zhang:  
-   *A Universal Control Architecture for Maritime Cranes and Robots Using Genetic Algorithms as a Possible Mapping Approach*,  
-   **The Proceedings of IEEE Robio 2013**, Shenzhen, China, Dec. 12–14, 2013, pp. 322–327.
+8. Filippo Sanfilippo, Lars Ivar Hatledal, Hans Georg Schaathun, Kristin Ytterstad Pettersen, Houxiang Zhang:*A Universal Control Architecture for Maritime Cranes and Robots Using Genetic Algorithms as a Possible Mapping Approach*, **The Proceedings of IEEE Robio 2013**, Shenzhen, China, Dec. 12–14, 2013, pp. 322–327.
 
-9. Shuai Ren, Yueri Cai, Shusheng Bi, Lige Zhang, Houxiang Zhang:  
-   *Kinematic Analysis and Design of a Robotic Fish Using Flapping and Flexional Pectoral Fins for Propulsion*,  
-   **The Proceedings of IEEE Robio 2013**, Shenzhen, China, Dec. 12–14, 2013, pp. 836–841.
+9. Shuai Ren, Yueri Cai, Shusheng Bi, Lige Zhang, Houxiang Zhang:*Kinematic Analysis and Design of a Robotic Fish Using Flapping and Flexional Pectoral Fins for Propulsion*, **The Proceedings of IEEE Robio 2013**, Shenzhen, China, Dec. 12–14, 2013, pp. 836–841.
 
-10. Kun Wang, Wei Wang, Houxiang Zhang:  
-    *The Mechanical Properties of a Wall-Climbing Caterpillar Robot: Analysis and Experiment*,  
-    **International Journal of Advanced Robotic System**, Vol. 10, No. 34, pp. 1–11, 2013.
+10. Kun Wang, Wei Wang, Houxiang Zhang:*The Mechanical Properties of a Wall-Climbing Caterpillar Robot: Analysis and Experiment*, **International Journal of Advanced Robotic System**, Vol. 10, No. 34, pp. 1–11, 2013.
 
 ---
 
@@ -640,38 +612,19 @@ Welcome to our full list of publications. Click on any title below to view more 
 ---
 
 ### 2011
-1. Jianhua Zhang, Junhao Xiao, Houxiang Zhang, Jianwei Zhang, Shengyong Chen:  
-   *Integrate Multi-Modal Cues for Category-Independent Object Detection and Localization*,  
-   **Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011)**,  
-   Sept. 25–30, 2011, San Francisco, CA, USA, pp. 801–806.
+1. Jianhua Zhang, Junhao Xiao, Houxiang Zhang, Jianwei Zhang, Shengyong Chen:*Integrate Multi-Modal Cues for Category-Independent Object Detection and Localization*, **Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011)**, Sept. 25–30, 2011, San Francisco, CA, USA, pp. 801–806.
 
-2. Kun Wang, Wei Wang, Houxiang Zhang:  
-   *Analysis and Design of Attachment Module Based on Sine Vibrating Suction Method for Wall-climbing Robot*,  
-   **Procedia Engineering**, vol. 12, 2011, pp. 9–14.
+2. Kun Wang, Wei Wang, Houxing Zhang:*Analysis and Design of Attachment Module Based on Sine Vibrating Suction Method for Wall-climbing Robot*, **Procedia Engineering**, vol. 12, 2011, pp. 9–14.
 
-3. Kun Wang, Wei Wang, Houxiang Zhang:  
-   *Development and Experiment of Wall-climbing Caterpillar Robot*,  
-   **Advanced Materials Research**, vol. 308–310, 2011, pp. 2031–2036.
+3. Kun Wang, Wei Wang, Houxiang Zhang: *Development and Experiment of Wall-climbing Caterpillar Robot*, **Advanced Materials Research**, vol. 308–310, 2011, pp. 2031–2036.
 
-4. Kun Wang, Zhiqiang Wang, Houxiang Zhang:  
-   *Development of Modular Wall-climbing Robot Inspired by Natural Caterpillar*,  
-   **2011 IEEE 2nd International Conference on Computing, Control and Industrial Engineering**,  
-   August 20–21, 2011, Wuhan, China, pp. 293–297.
+4. Kun Wang, Zhiqiang Wang, Houxiang Zhang:  *Development of Modular Wall-climbing Robot Inspired by Natural Caterpillar*,  **2011 IEEE 2nd International Conference on Computing, Control and Industrial Engineering**,   August 20–21, 2011, Wuhan, China, pp. 293–297.
 
-5. Guoyuan Li, Houxiang Zhang, Fernando Herrero-Carron, Hans Petter Hildre, Jianwei Zhang:  
-   *A Novel Mechanism for Caterpillar-like Locomotion Using Asymmetric Oscillation*,  
-   **Proceedings of the 2011 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2011)**,  
-   Budapest, Hungary, July 3–7, 2011, pp. 164–169. [📄](#) [❝](#)
+5. Guoyuan Li, Houxiang Zhang, Fernando Herrero-Carron, Hans Petter Hildre, Jianwei Zhang:  *A Novel Mechanism for Caterpillar-like Locomotion Using Asymmetric Oscillation*,  **Proceedings of the 2011 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2011)**, Budapest, Hungary, July 3–7, 2011, pp. 164–169. [📄](#) [❝](#)
 
-6. Kun Wang, Zhiqiang Wang, Houxiang Zhang:  
-   *Development of Modular Wall-climbing Robot Inspired by Natural Caterpillar*,  
-   **Proceedings of the 2011 IEEE International Conference on Computing, Control and Industrial Engineering (CCIE 2011)**,  
-   Wuhan, China, August 20–21, 2011, pp. 293–297.
+6. Kun Wang, Zhiqiang Wang, Houxiang Zhang:  *Development of Modular Wall-climbing Robot Inspired by Natural Caterpillar*,  **Proceedings of the 2011 IEEE International Conference on Computing, Control and Industrial Engineering (CCIE 2011)**,  Wuhan, China, August 20–21, 2011, pp. 293–297.
 
-7. Junhao Xiao, Jianhua Zhang, Jianwei Zhang, Houxiang Zhang, Hans Petter Hildre:  
-   *Fast Plane Detection for SLAM from Noisy Range Images in Both Structured and Unstructured Environments*,  
-   **Proceedings of the 2011 IEEE International Conference on Mechatronics and Automation (ICMA 2011)**,  
-   Beijing, China, August 7–10, 2011, pp. 1768–1773.
+7. Junhao Xiao, Jianhua Zhang, Jianwei Zhang, Houxiang Zhang, Hans Petter Hildre:  *Fast Plane Detection for SLAM from Noisy Range Images in Both Structured and Unstructured Environments*, **Proceedings of the 2011 IEEE International Conference on Mechatronics and Automation (ICMA 2011)**, Beijing, China, August 7–10, 2011, pp. 1768–1773.
 
 ---
 ## <span id="doctoral">Doctoral Dissertations</span>
