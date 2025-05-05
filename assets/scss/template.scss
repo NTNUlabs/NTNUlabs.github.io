@@ -88,63 +88,70 @@ h4 {
 }
 
 /* 设置全局背景颜色为护眼绿色 */
-/* 全局背景颜色 */
-body {
+/* 全局背景（页面最底层） */
+body,
+html {
   background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
 }
 
-/* 主体内容容器 */
-.article-container,
-.page-body,
-.content,
+/* 内容区域：统一主区域背景 */
 #main,
-#content,
+.page,
+.page-body,
 .section,
-.widget {
+.widget,
+.widget-page,
+.article-container,
+.content {
   background-color: #e8f5e9 !important;
   color: #1a1a1a !important;
 }
 
-/* Markdown 内容模块（widget-markdown 组件） */
-.widget-markdown,
+/* Markdown 模块 */
 .markdown,
 .markdown-content,
 .markdown-body,
-.markdown-body > * {
+.markdown-body > *,
+.widget-markdown {
   background-color: #e8f5e9 !important;
   color: #1a1a1a !important;
 }
 
-/* Contact 模块 */
+/* Contact 模块和表单区域 */
 .widget-contact,
 .contact,
-.section-contact,
 .contact-form,
-form#contact-form {
+form#contact-form,
+input,
+textarea {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
+  border-color: #b2dfdb !important;
+}
+
+/* 特殊背景覆盖（如 bg-light、has-bg-color 类） */
+.has-bg-color,
+.bg-light,
+.bg-white {
   background-color: #e8f5e9 !important;
   color: #1a1a1a !important;
 }
 
-/* 卡片、引用、代码块等 */
+/* 卡片类组件 */
 .card,
-.card-body,
 .card-content,
-.markdown blockquote,
-.markdown pre,
-.markdown pre code {
+.card-body {
   background-color: #f0fdf4 !important;
+  color: #1a1a1a !important;
+}
+
+/* 代码块、引用 */
+pre,
+pre code,
+code,
+blockquote {
+  background-color: #d7f0da !important;
   color: #2e3b2c !important;
 }
-
-/* 导航栏也统一 */
-nav.navbar,
-.navbar-menu,
-.navbar-start,
-.navbar-end {
-  background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
-}
-
 
 /* 设置全局背景颜色为护眼绿色 */
