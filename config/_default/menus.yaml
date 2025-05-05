@@ -55,6 +55,6 @@ main:
     weight: 60
 
 
-  - name: Publication List
-    url: publication/list/
-    weight: 51
+  # - name: Publication List
+  #   url: publication/list/
+  #   weight: 51
