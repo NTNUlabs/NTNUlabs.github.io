@@ -7,9 +7,9 @@ authors:
 date: 2025-01-01
 publication: IEEE Transactions on Industrial Informatics
 publication_short: IEEE TII
-publication_types: ["Journal and Conference Papers"]  # 1 = journal article
+publication_types: ["article-journal"]  # 1 = journal article
 abstract: ""
-featured: true
+featured: false
 doi: ""
 url_pdf: ""
 url_code: ""
