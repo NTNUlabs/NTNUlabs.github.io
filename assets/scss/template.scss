@@ -104,6 +104,7 @@ body {
 #content,
 .widget,
 .hero,
+.hero-body,
 .section {
   background-color: #e8f5e9 !important;
   color: #1a1a1a;
@@ -124,4 +125,8 @@ pre code,
 code {
   background-color: #d7f0da !important;
   color: #2e3b2c;
+}
+/* 去掉模块间强对比边框 */
+.section:not(:last-child) {
+  border-bottom: none;
 }
