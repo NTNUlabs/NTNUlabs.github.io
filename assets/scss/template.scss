@@ -58,17 +58,23 @@ h3 {
 h4 {
   font-size: 1.25rem;
 }
+
+body {
+  background-color: #f5f5f5; /* 修改为你想要的背景色，例如淡灰色 */
+}
+
 // /* 拓宽页面 */
 // .container {
 //   max-width: 1200px !important;
 // }
 
 /* 拓宽主内容区域 */
+
 .article-container,
 .content,
 .page-body {
-  max-width: 100% !important;
-  width: 100% !important;
+  max-width: 90% !important;
+  width: 90% !important;
   margin-left: auto !important;  /* 居中关键 */
   margin-right: auto !important; /* 居中关键 */
   padding-left: 2rem;
