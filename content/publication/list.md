@@ -4,6 +4,7 @@ summary: "A curated overview of our publications."
 date: 2025-05-05
 layout: page
 type: page
+css_class: wider-content
 ---
 
 Welcome to our full list of publications. Click on any title below to view more details.
