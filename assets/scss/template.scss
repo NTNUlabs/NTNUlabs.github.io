@@ -88,52 +88,56 @@ h4 {
 }
 
 /* 设置全局背景颜色为护眼绿色 */
-/* 设置全局背景颜色为护眼绿色 */
+/* 全局背景颜色 */
 body {
-  background-color: #e8f5e9 !important;  /* 淡绿色豆沙色 */
-  color: #1a1a1a;  /* 保持文字深色，确保可读性 */
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
 }
 
-/* 修正文章容器背景（Markdown区块、正文内容） */
+/* 主体内容容器 */
 .article-container,
 .page-body,
 .content,
-.section-markdown,
-.markdown,
-.markdown-content,
 #main,
 #content,
-.widget,
-.hero,
-.hero-body,
-.section {
+.section,
+.widget {
   background-color: #e8f5e9 !important;
-  color: #1a1a1a;
+  color: #1a1a1a !important;
 }
 
-/* 如果有卡片式组件，调整卡片背景 */
+/* Markdown 内容模块（widget-markdown 组件） */
+.widget-markdown,
+.markdown,
+.markdown-content,
+.markdown-body,
+.markdown-body > * {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
+}
+
+/* Contact 模块 */
+.widget-contact,
+.contact,
+.section-contact,
+.contact-form,
+form#contact-form {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a !important;
+}
+
+/* 卡片、引用、代码块等 */
 .card,
-.card-content,
 .card-body,
-.markdown > div,
+.card-content,
 .markdown blockquote,
-.markdown pre {
+.markdown pre,
+.markdown pre code {
   background-color: #f0fdf4 !important;
+  color: #2e3b2c !important;
 }
 
-/* 代码块优化对比度 */
-pre code,
-code {
-  background-color: #d7f0da !important;
-  color: #2e3b2c;
-}
-
-/* 去掉模块间强对比边框 */
-.section:not(:last-child) {
-  border-bottom: none;
-}
-
-/* 顶部导航栏变护眼色 */
+/* 导航栏也统一 */
 nav.navbar,
 .navbar-menu,
 .navbar-start,
@@ -142,22 +146,5 @@ nav.navbar,
   color: #1a1a1a !important;
 }
 
-/* Contact（联系模块）背景统一 */
-.section-contact,
-.widget-contact,
-.contact,
-.contact-form {
-  background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
-}
-
-/* Markdown页面/自定义页面widget容器 */
-.widget,
-.widget-page,
-.widget-markdown,
-.markdown-body {
-  background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
-}
 
 /* 设置全局背景颜色为护眼绿色 */
