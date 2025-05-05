@@ -88,70 +88,50 @@ h4 {
 }
 
 /* 设置全局背景颜色为护眼绿色 */
-/* 全局背景（页面最底层） */
-body,
-html {
-  background-color: #e8f5e9 !important;
+/* 设置全局背景颜色为护眼绿色 */
+body {
+  background-color: #e8f5e9 !important; /* 淡绿色 */
+  color: #1a1a1a; /* 深色文字，确保可读性 */
 }
 
-/* 内容区域：统一主区域背景 */
-#main,
-.page,
-.page-body,
-.section,
-.widget,
-.widget-page,
+/* 应用于主要容器和模块 */
 .article-container,
-.content {
-  background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
-}
-
-/* Markdown 模块 */
+.page-body,
+.content,
+.section-markdown,
 .markdown,
 .markdown-content,
-.markdown-body,
-.markdown-body > *,
-.widget-markdown {
+#main,
+#content,
+.widget,
+.hero,
+.hero-body,
+.section,
+.contact {
   background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
+  color: #1a1a1a;
 }
 
-/* Contact 模块和表单区域 */
-.widget-contact,
-.contact,
-.contact-form,
-form#contact-form,
-input,
-textarea {
-  background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
-  border-color: #b2dfdb !important;
-}
-
-/* 特殊背景覆盖（如 bg-light、has-bg-color 类） */
-.has-bg-color,
-.bg-light,
-.bg-white {
-  background-color: #e8f5e9 !important;
-  color: #1a1a1a !important;
-}
-
-/* 卡片类组件 */
+/* 卡片式组件的背景颜色 */
 .card,
 .card-content,
-.card-body {
+.card-body,
+.markdown > div,
+.markdown blockquote,
+.markdown pre {
   background-color: #f0fdf4 !important;
-  color: #1a1a1a !important;
 }
 
-/* 代码块、引用 */
-pre,
+/* 代码块的背景和文字颜色 */
 pre code,
-code,
-blockquote {
+code {
   background-color: #d7f0da !important;
-  color: #2e3b2c !important;
+  color: #2e3b2c;
+}
+
+/* 去除模块间的边框 */
+.section:not(:last-child) {
+  border-bottom: none;
 }
 
 /* 设置全局背景颜色为护眼绿色 */
