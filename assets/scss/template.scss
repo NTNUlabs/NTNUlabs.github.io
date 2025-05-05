@@ -68,7 +68,7 @@ h4 {
 .content,
 .page-body {
   max-width: 100% !important;
-  width: 100% !important;
+  width: 80% !important;
   padding-left: 2rem;
   padding-right: 2rem;
 }
@@ -76,7 +76,7 @@ h4 {
 .article-container img,
 .page-body img,
 .content img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   display: block;
   margin: 1rem auto; /* 可选：图片居中并留白 */
