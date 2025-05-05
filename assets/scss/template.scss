@@ -67,8 +67,10 @@ h4 {
 .article-container,
 .content,
 .page-body {
-  max-width: 100% !important;
+  max-width: 90% !important;
   width: 90% !important;
+  margin-left: auto !important;  /* 居中关键 */
+  margin-right: auto !important; /* 居中关键 */
   padding-left: 2rem;
   padding-right: 2rem;
 }
