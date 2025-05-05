@@ -7,8 +7,8 @@ authors:
 date: 2025-01-01
 publication: IEEE Transactions on Industrial Informatics
 publication_short: IEEE TII
-publication_types: ["1"]  # 1 = journal article
-abstract: "This paper proposes a physics-informed neural network framework for identifying ship roll dynamics, ensuring robustness against noisy sensor data."
+publication_types: ["Journal and Conference Papers"]  # 1 = journal article
+abstract: ""
 featured: true
 doi: ""
 url_pdf: ""
@@ -19,7 +19,7 @@ url_slides: ""
 url_video: ""
 url_poster: ""
 tags: ["Physics-Informed Neural Networks", "Ship Dynamics", "System Identification"]
-summary: "A robust system identification method using PINNs for ship roll motion in noisy environments."
+summary: ""
 # image:
 #   filename: featured.jpg
 #   caption: "Ship Roll Dynamics"
