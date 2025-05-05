@@ -318,8 +318,349 @@ Welcome to our full list of publications. Click on any title below to view more 
 21. Øyvind Smogeli, Kristine Bruun Ludvigsen, Levi Jamt, Bjørnar Vik, Håvard Nordahl, Lars Tandle Kyllingstad, Kevin Koosup Yum, and Houxiang Zhang: *Open Simulation Platform – An Open-Source Project for Maritime System Co-Simulation*, **19th International Conference on Computer and IT Applications in the Maritime Industries**, Pontignano, Italy, 17–19 August 2020.
 
 ### 2019
+1. Robert Skulstad, Guoyuan Li, Thor I. Fossen, Bjørnar Vik and Houxiang Zhang: *Dead reckoning of dynamically positioned ships: using an efficient recurrent neural network*, **IEEE Robotics & Automation Magazine**, vol. 26, no. 3, pp. 39–51, DOI: [10.1109/MRA.2019.2918125](https://doi.org/10.1109/MRA.2019.2918125), 2019.  [📄](#) [❝](#)
+
+2. Guoyuan Li, Hans Petter Hildre and Houxiang Zhang: *Toward time-optimal trajectory planning for autonomous ship maneuvering in close-range encounters*, **IEEE Journal of Oceanic Engineering**, vol. 45, no. 4, pp. 1219–1234, DOI: [10.1109/JOE.2019.2926822](https://doi.org/10.1109/JOE.2019.2926822), 2019.  [📄](#) [❝](#)
+
+3. Runze Mao, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang: *Analysis and evaluation of eye behavior for marine operation training – A pilot study*, **Journal of Eye Movement Research**, vol. 12, no. 3, DOI: [10.16910/jemr.12.3.6](https://doi.org/10.16910/jemr.12.3.6), 2019. ❝
+
+4. Yingguang Chu, Pedersen Birger Skogeng and Houxiang Zhang: *Virtual prototyping for maritime winch design and operations based on functional mock-up interface co-simulation*, **Ships and Offshore Structures**, vol. 14, pp. 261–269, DOI: [10.1080/17445302.2019.1577597](https://doi.org/10.1080/17445302.2019.1577597), 2019.  [📄](#) [❝](#)
+
+5. Deniz Korkmaz, Gonca Ozmen Koca, Guoyuan Li, Cafer Balut, Mustafa Ay and Zuhtu Hakan Akpolat: *Locomotion control of a biomimetic robotic fish based on closed loop sensory feedback CPG model*, **Journal of Marine Engineering & Technology**, DOI: [10.1080/20464177.2019.1638703](https://doi.org/10.1080/20464177.2019.1638703), 2019. ❝
+
+6. Xu Cheng, Guoyuan Li, Robert Skulstad, Shengyong Chen, Hans Petter Hildre and Houxiang Zhang: *Modeling and analysis of motion data from dynamically positioned vessels for sea state estimation*, **IEEE International Conference on Robotics and Automation (ICRA)**, Montreal, QC, Canada, pp. 6644–6650, 20–24 May, 2019.  [📄](#) [❝](#)
+
+7. Xu Cheng, Guoyuan Li, Robert Skulstad, Shengyong Chen, Hans Petter Hildre and Houxiang Zhang: *Data-driven uncertainty and sensitivity analysis for ship motion modeling in offshore operations*, **Ocean Engineering**, vol. 179, pp. 261–272, DOI: [10.1016/j.oceaneng.2019.03.014](https://doi.org/10.1016/j.oceaneng.2019.03.014), 2019.  [📄](#) [❝](#)
+
+8. Ottar L. Osen, Per Martin Leinan, Martin Blom, Christer Bakken, Matias Heggen, Houxiang Zhang: *A novel sea farm inspection platform for norwegian aquaculture application*, **Proceeding of IEEE OCEANS 2018 MTS/IEEE Charleston**.
+
+9. Xu Cheng, André Listou Ellefsen, Guoyuan Li, Finn Tore Holmeset, Shengyong Chen and Houxiang Zhang: *A step-wise feature selection scheme for a prognostics and health management system in autonomous ferry crossing operation*, **IEEE International Conference on Mechatronics and Automation (ICMA)**, Tianjin, China, pp. 1877–1882, August 4–7, 2019.  [📄](#) [❝](#)
+
+10. Pierre Major, Robert Skulstad, Guoyuan Li and Houxiang Zhang: *Virtual prototyping: case study of positioning systems for drilling operations in the Barents Sea*, **Ships and Offshore Structures**, vol. 14, pp. 364–373, DOI: [10.1080/17445302.2019.1601322](https://doi.org/10.1080/17445302.2019.1601322), 2019.  [📄](#) [❝](#)
+
+11. Yueri Cai, Xingwei Ren, Shusheng Bi, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang: *Hydrodynamic development of a bionic pectoral fin for undersea monitoring platform*, **Ships and Offshore Structures**, vol. 14, pp. 91–99, DOI: [10.1080/17445302.2018.1559910](https://doi.org/10.1080/17445302.2018.1559910), 2019.  [📄](#) [❝](#)
+
+12. Mateus Sant’Ana, Guoyuan Li and Houxiang Zhang: *A decentralized sensor fusion approach to human fatigue monitoring in maritime operations*, **15th IEEE International Conference on Control and Automation (ICCA)**, Edinburgh, Scotland, pp. 1569–1574, July 16–19, 2019.  [📄](#) [❝](#)
+
+13. Thiago Gabriel Monteiro, Houxiang Zhang, Charlotte Skourup, Eduardo Aoun Tannuri: *Detecting mental fatigue in vessel pilots using deep learning and physiological sensors*, **15th IEEE International Conference on Control and Automation (ICCA)**, Edinburgh, Scotland, pp. 1511–1516, July 16–19, 2019.  [📄](#) [❝](#)
+
+14. A. L. Ellefsen, S. Ushakov, V. Æsøy, and H. Zhang: *Validation of Data-Driven Labeling Approaches Using a Novel Deep Network Structure for Remaining Useful Life Predictions*, **IEEE Access**, vol. 7, pp. 71563–71575, DOI: [10.1109/ACCESS.2019.2920297](https://doi.org/10.1109/ACCESS.2019.2920297), 2019.  [📄](#) [❝](#)
+
+15. André Listou Ellefsen, Emil Bjørlyk haug, Vilmar Æsøy, and Houxiang Zhang: *An unsupervised reconstruction-based fault detection algorithm for maritime components*, **IEEE Access**, vol. 7, pp. 16101–16109, DOI: [10.1109/ACCESS.2019.2895394](https://doi.org/10.1109/ACCESS.2019.2895394), 2019.  [📄](#) [❝](#)
+
+16. André Listou Ellefsen, Vilmar Æsøy, Sergey Ushakov, and Houxiang Zhang: *A comprehensive survey of prognostics and health management based on deep learning for autonomous ships*, **IEEE Transactions on Reliability**, vol. 68, no. 2, pp. 720–740, DOI: [10.1109/TR.2019.2907402](https://doi.org/10.1109/TR.2019.2907402), 2019.  [📄](#) [❝](#)
+
+17. André Listou Ellefsen, Xu Cheng, Finn Tore Holmeset, Sergey Ushakov, Vilmar Æsøy, and Houxiang Zhang: *Automatic Fault Detection for Marine Diesel Engine Degradation in Autonomous Ferry Crossing Operation*, **IEEE International Conference on Mechatronics and Automation (ICMA)**, Tianjin, China, pp. 2195–2200, August 4–7, 2019.  [📄](#) [❝](#)
+
+18. Lars Ivar Hatledal, Houxiang Zhang, Arne Styve and Geir Hovland: *FMU-proxy: A framework for distributed access to functional mock-up units*, **Proceedings of the 13th International Modelica Conference**, Regensburg, Germany, March 4–6, 2019, [https://doi.org/10.3384/ecp19157179](https://doi.org/10.3384/ecp19157179). ❝
+
+19. Lars Ivar Hatledal, Arne Styve, Geir Hovland and Houxiang Zhang: *A Language and Platform Independent Co-simulation Framework based on the Functional Mock-up Interface*, **IEEE Access**, vol. 7, pp. 109328–109339, DOI: [10.1109/ACCESS.2019.2933275](https://doi.org/10.1109/ACCESS.2019.2933275), 2019.  [📄](#) [❝](#)
+
+20. Thiago Gabriel Monteiro, Houxiang Zhang and Charlotte Skourup: *Using EEG for Mental Fatigue Assessment: A Comprehensive Look Into the Current State of the Art*, **IEEE Transactions on Human-Machine Systems**, vol. 49, no. 6, pp. 599–610, DOI: [10.1109/THMS.2019.2938156](https://doi.org/10.1109/THMS.2019.2938156), 2019.  [📄](#) [❝](#)
+
+21. Pierre Major, Shuai Yuan, Houxiang Zhang: *Flexible Riser Installation Optimisation Based on Virtual Prototyping*, **OCEANS MTS/IEEE 2019**, Marseille, France, 2019.  [📄](#) [❝](#)
+
+22. Yueri Cai, Lingkun Chen, Shusheng Bi, Guoyuan Li and Houxiang Zhang: *Bionic flapping pectoral fin with controllable spatial deformation*, **Journal of Bionic Engineering**, vol. 16, no. 5, pp. 916–930, DOI: [10.1007/s42235-019-0106-4](https://doi.org/10.1007/s42235-019-0106-4), 2019.  [📄](#) [❝](#)
+
+23. Guoyuan Li, Runze Mao, Hans Petter Hildre and Houxiang Zhang: *Visual attention assessment for expert-in-the-loop training in a maritime operation simulator*, **IEEE Transactions on Industrial Informatics**, vol. 16, no. 1, pp. 522–531, DOI: [10.1109/TII.2019.2945361](https://doi.org/10.1109/TII.2019.2945361), 2020.  [📄](#) [❝](#)
+
+24. Yonghui Shuai, Guoyuan Li, Xu Cheng, Robert Skulstad, Jinshan Xu, Honghai Liu and Houxiang Zhang: *An efficient neural-network based approach to automatic ship docking*, **Ocean Engineering**, vol. 191, DOI: [10.1016/j.oceaneng.2019.106514](https://doi.org/10.1016/j.oceaneng.2019.106514), 2019.  [📄](#) [❝](#)
+
+25. Luman Zhao and Myung-Il Roh: *COLREGs-compliant multiship collision avoidance based on deep reinforcement learning*, **Ocean Engineering**, accepted, DOI: [10.1016/j.oceaneng.2019.106436](https://doi.org/10.1016/j.oceaneng.2019.106436).  [📄](#) [❝](#)
+
+
 ### 2018
+1. Xu Cheng, Guoyuan Li, Robert Skulstad, Shengyong Chen, Hans Petter Hildre and Houxiang Zhang: *A neural network-based sensitivity analysis approach for data-driven modeling of ship motion*, **IEEE Journal of Oceanic Engineering**, vol. 45, no. 2, pp. 451–461, DOI: 10.1109/JOE.2018.2882276, 2020.  [📄](#) [❝](#)
+
+2. Yueri Cai, Shusheng Bi, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang: *From natural complexity to biomimetic simplification: realization of bionic fish inspired by the Cownose Ray*, **IEEE Robotics & Automation Magazine**, vol. 26, no. 3, pp. 27–38, DOI: 10.1109/MRA.2018.2861985, 2018.  [📄](#) [❝](#)
+
+3. Yueri Cai, Xingwei Ren, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang: *Performance investigation of a bionic pectoral foil for undersea monitoring platform*, in **Proceedings of the International Conference on Ships and Offshore Structures (ICSOS 2018)**, Gothenburg, Sweden, September 17–19, 2018.
+
+4. Pierre Major, Robert Skulstad, Guoyuan Li, Houxiang Zhang: *Virtual prototyping: case study of positioning systems for drilling operations in the Barents Sea*, in **Proceedings of the International Conference on Ships and Offshore Structures (ICSOS 2018)**, Gothenburg, Sweden, September 17–19, 2018.
+
+5. Lars Ivar Hatledal, Houxiang Zhang, Arne Styve and Geir Hovland: *FMI4j: A software package for working with functional mock-up units on the java virtual machine*, in **Proceedings of the 59th Conference on Simulation and Modelling (SIMS 59)**, Oslo, Norway, pp. 37–42, September 26–28, 2018.  [📄](#) [❝](#)
+
+6. Xu Cheng, Robert Skulstad, Guoyuan Li, Shengyong Chen, Hans Petter Hildre and Houxiang Zhang: *A data-driven sensitivity analysis approach for dynamically positioned vessels*, in **Proceedings of the 59th Conference on Simulation and Modelling (SIMS 59)**, Oslo, Norway, pp. 156–161, September 26–28, 2018.  [📄](#) [❝](#)
+
+7. Robert Skulstad, Guoyuan Li, Houxiang Zhang and Thor I. Fossen: *A neural network approach to control allocation of ships for dynamic positioning*, in **Proceedings of the 11th IFAC Conference on Control Applications in Marine Systems, Robotics, and Vehicles (CAMS 2018)**, Opatija, Croatia, pp. 128–133, September 10–12, 2018.  [📄](#) [❝](#)
+
+8. Chunlin Wang, Xu Cheng, Guoyuan Li, Shengyong Chen and Houxiang Zhang: *A SVM-based sensitivity analysis approach for data-driven modeling of ship motion*, in **Proceedings of 2018 IEEE International Conference on Mechatronics and Automation (ICMA 2018)**, Changchun, China, pp. 803–808, August 5–8, 2018.  [📄](#) [❝](#)
+
+9. André Listou Ellefsen, Emil Bjørlykhaug, Vilmar Æsøy, Sergey Ushakov, and Houxiang Zhang: *Remaining useful life predictions for turbofan engine degradation using semi-supervised deep architecture*, **Reliability Engineering & System Safety**, vol. 183, pp. 240–251, DOI: 10.1016/j.ress.2018.11.027, 2018.  [📄](#) [❝](#)
+
 ### 2017
+1. Yingguang Chu, Lars Ivar Hatledal, Vilmar Æsøy, Sören Ehlers and Houxiang Zhang: *An object-oriented modeling approach to virtual prototyping of marine operation systems based on functional mock-up interface co-simulation*, **Journal of Offshore Mechanics and Arctic Engineering**, vol. 140, no. 2, pp. 021601, DOI: 10.1115/1.4038346, 2017.  [📄](#) [❝](#)
+
+2. Yingguang Chu, Lars Ivar Hatledal, Houxiang Zhang, Vilmar Æsøy, and Sören Ehlers: *Virtual prototyping for maritime crane design and operations*, **Journal of Marine Science and Technology**, vol. 23, no. 4, pp. 754–766, DOI: 10.1007/s00773-017-0509-z, 2017.  [📄](#) [❝](#)
+
+3. Feilong Yu, Yingguang Chu, Houxiang Zhang and Vilmar Æsøy: *Parallel force/position control of motion compensated gangway in offshore operations*, **International Conference on Ships and Offshore Structures**, Shenzhen, China, 11–13 September 2017.
+
+4. Wei Li, Houxiang Zhang and Ottar L. Osen: *A UAV SAR prototype for marine and arctic application*, in **Proceedings of the ASME 2017 36th International Conference on Ocean, Offshore and Arctic Engineering**, 2017.
+
+5. Wei Li, Houxiang Zhang: *A FPGA based ultrasonic rail flaw detection system*, **IEEE International Symposium on Signal Processing and Information Technology**, Dec. 18–20, 2017.
+
+6. Wei Li: *A spin noise spectrometer based on FPGA*, **IEEE International Symposium on Signal Processing and Information Technology**, Dec. 18–20, 2017.
+
+7. Ping Shi, Jian Ma, Xuan Qian, Yang Ji, Wei Li: *Signal-to-noise ratio of spin noise spectroscopy in rubidium vapor*, **Acta Physica Sinica**, vol. 66, 2017.
+
+8. Ottar L. Osen, Rolf-Inge Sandvik, Jørgen Berge Trygstad, Vegard Rogne, and Houxiang Zhang: *A novel low cost ROV for aquaculture application*, in **OCEANS MTS/IEEE 2017**, Anchorage, USA, Sept. 17–22, 2017. (Houxiang Zhang as the Corresponding author.)  [📄](#) [❝](#)
+
+9. Ibrahim A. Hameed, Robin T. Bye, Pedersen Birger Skogeng and Ottar L. Osen: *Evolutionary winch design using an online winch prototyping tool*, in **Proceedings of the 31th European Conference on Modelling and Simulation (ECMS)**, Budapest, Hungary, 2017.
+
+10. Robin T. Bye, Ottar L. Osen, Webjørn Rekdalsbakken, Pedersen Birger Skogeng and Ibrahim A. Hameed: *An intelligent winch prototyping tool*, in **Proceedings of the 31th European Conference on Modelling and Simulation (ECMS)**, Budapest, Hungary, 2017.
+
+11. Lars Ivar Hatledal, Houxiang Zhang, Karl Henning Halse and Hans Petter Hildre: *Numerical study for a catamaran gripper-monopile mechanism of a novel offshore wind turbine assembly installation procedure*, in **Proceedings of the ASME 2017 36th International Conference on Ocean, Offshore and Arctic Engineering**, 2017.  [📄](#) [❝](#)
+
+12. Girts Strazdins, Pedersen Birger Skogeng, Houxiang Zhang and Pierre Major: *Virtual reality using gesture recognition for deck operation training*, in **OCEANS MTS/IEEE 2017**, Aberdeen, 2017 (Houxiang Zhang as the Corresponding author).  [📄](#) [❝](#)
+
+13. Yushan Pan, Guoyuan Li, Thiago Gabriel Monteiro, Hans Petter Hildre and Steinar Nistad: *Assessment of relations between communications and visual focus in dynamic positioning operations*, in **2017 International Technology Enhanced Assessment Conference**, Barcelona, Spain, October 5–6, 2017.
+
+14. Guoyuan Li, Rodrigo Urbina and Houxiang Zhang: *Concept design and simulation of a water proofing modular robot for amphibious locomotion*, in **2017 International Conference on Advanced Mechatronic Systems**, Xiamen, China, pp. 145–150, December 6–9, 2017.  [📄](#) [❝](#)
+
+15. Guoyuan Li, Peter Verdru, Wei Li and Houxiang Zhang: *A screw-less solution for snake-like robot assembly and sensor integration*, in **2017 International Conference on Advanced Mechatronic Systems**, Xiamen, China, pp. 139–144, December 6–9, 2017.  [📄](#) [❝](#)
+
+16. Zheng Yang, Junyu Lai and Guoyuan Li: *Cryptanalysis of a generic one-round key exchange protocol with strong security*, **IET Information Security**, vol. 12, no. 1, pp. 71–78, DOI: 10.1049/iet-ifs.2017.0055, 2017.
+
+17. Bikram Kawan, Hao Wang, Guoyuan Li and Khim Chhantyal: *Data-driven modeling of ship motion prediction based on support vector regression*, in **Proceedings of the 58th Conference on Simulation and Modelling (SIMS 58)**, Reykjavik, Iceland, pp. 350–354, September 25–27, 2017 (Guoyuan Li as the Corresponding author).  [📄](#) [❝](#)
+
+18. Guoyuan Li, Eirik Homlong, Bjørn Aase Dimmen and Houxiang Zhang: *Integration of visual focus into marine operation simulator for behavior observation and analysis*, in **OCEANS MTS/IEEE 2017**, Aberdeen, 2017.  [📄](#) [❝](#)
+
+19. Xu Cheng, Guoyuan Li, Shenyong Chen, Chen Diao, Mengna Liu and Houxiang Zhang: *Simplifying neural network based model for ship motion prediction: a comparative study of sensitivity analysis*, in **Proceedings of the ASME 2017 36th International Conference on Ocean, Offshore and Arctic Engineering**, 2017.  [📄](#) [❝](#)
+
+20. Guoyuan Li, and Houxiang Zhang: *A bézier curve based ship trajectory optimization for close-range maritime operations*, in **Proceedings of the ASME 2017 36th International Conference on Ocean, Offshore and Arctic Engineering**, 2017.  [📄](#) [❝](#)
+
+21. Yushan Pan, Guoyuan Li, Steinar Nistad and Hans Petter Hildre: *Toward optimization of maritime training on communications: a pilot study*, in **10th International Conference on ICT, Society and Human Beings**, Lisbon, Portugal, pp. 51–57, July 20–22, 2017.
+
+22. Guoyuan Li, Bikram Kawan, Hao Wang, and Houxiang Zhang: *Neural-network-based modeling and analysis for time series prediction of ship motion*, **Ship Technology Research**, vol. 64, no. 1, pp. 30–39, DOI: 10.1080/09377255.2017.1309786, 2017.  [📄](#) [❝](#)
+
+### 2016
+1. Jian Ma, Ping Shi, Xuan Qian, Wei Li and Yang Ji: *Spin noise spectroscopy of rubidium atomic gas under resonant and non-resonant conditions*, **Chin. Phys. B**, vol. 25, no. 11, 2016.
+
+2. Yingguang Chu, Houxiang Zhang, and Wei Wang: *Enhancement of virtual simulator for marine crane operations via haptic device with force feedback*, in **International Conference on Human Haptic Sensing and Touch Enabled Computer Applications**, pp. 327–337, Springer International Publishing, 2016.  [📄](#) [❝](#)
+
+3. Yingguang Chu, Vilmar Æsø, Øyvind Bunes and Eilif Pedersen: *Modeling and simulation of the accumulator system during active heave compensation operations*, in **ASME 2016 35th International Conference on Ocean, Offshore and Arctic Engineering**, American Society of Mechanical Engineers, 2016.  [📄](#) [❝](#)
+
+4. Yingguang Chu, Yuxiang Deng, Pedersen Birger Skogeng and Houxiang Zhang: *Parameterization and visualization of marine crane concept design*, in **ASME 2016 35th International Conference on Ocean, Offshore and Arctic Engineering**, American Society of Mechanical Engineers, 2016.  [📄](#) [❝](#)
+
+5. Wei Li, Guoyuan Li, Houxiang Zhang, Hans Petter Hildre: *A real-time SAR extended object simulator based on FPGA*, in **2016 IEEE 13th International Conference on Signal Processing Proceedings**, Chengdu, China, pp. 1498–1503, 2016.
+
+6. Guoyuan Li, Wei Li, Hans Petter Hildre and Houxiang Zhang: *Online learning control of surface vessels for fine trajectory tracking*, **Journal of Marine Science and Technology**, vol. 21, no. 2, pp. 251–260, DOI: 10.1007/s00773-015-0347-9, 2016.  [📄](#) [❝](#)
+
+7. Guoyuan Li, Yuxiang Deng, Ottar L. Osen, Shusheng Bi and Houxiang Zhang: *A bio-inspired swimming robot for marine aquaculture applications: from concept-design to simulation*, in **OCEANS MTS/IEEE 2016**, Shanghai.  [📄](#) [❝](#) 🖼
+
+8. Guoyuan Li, Pedersen Birger Skogeng, Yuxiang Deng, Lars Ivar Hatledal and Houxiang Zhang: *Towards a virtual prototyping framework for ship maneuvering in offshore operations*, in **OCEANS MTS/IEEE 2016**, Shanghai.  [📄](#) [❝](#)
+
+9. Guoyuan Li, Bikram Kawan, Hao Wang, Arne Styve, Ottar L. Osen and Houxiang Zhang: *Analysis and modeling of sensor data for ship motion prediction*, in **OCEANS MTS/IEEE 2016**, Shanghai.  [📄](#) [❝](#)
+
+10. Hao Wang, Sindre Fossen, Fang Han, Ibrahim A. Hameed and Guoyuan Li: *Towards data-driven identification and analysis of propeller ventilation*, in **OCEANS MTS/IEEE 2016**, Shanghai.  [📄](#) [❝](#)
+
+11. Hao Wang, Xu Zhuge, Girts Strazdins, Zheng Wei, Guoyuan Li and Houxiang Zhang: *Data integration and visualisation for demanding marine operations*, in **OCEANS MTS/IEEE 2016**, Shanghai.  [📄](#) [❝](#)
+
+12. Cong Liu, Hans Petter Hildre, Houxiang Zhang and Terje Rølvåg: *Product architecture design of multimodal products*, **Research in Engineering Design**, DOI: 10.1007/s00163-016-0221-8, 2016.  [📄](#) [❝](#)
+
+
+### 2015
+1. Lars Ivar Hatledal, Hans Georg Schaathun and Houxiang Zhang: *A software architecture for simulation and visualisation based on the functional mock-up interface and web technologies*, in **Proceedings of the 57th conference on simulation and modelling (SIMS56)**, Linköping University, Sweden, pp. 123–129, October 7–9, 2015.  [📄](#) [❝](#)
+
+2. Jian Chen, Guoyuan Li, Jianwei Zhang, and Junzhi Yu: *Caterpillar-like climbing method incorporating a dual-mode optimal controller*, **IEEE Transactions on Automation Science and Engineering**, vol. 12, no. 4, pp. 1492–1503, DOI: 10.1109/TASE.2015.2453992, 2015.  [📄](#) [❝](#)
+
+3. Guoyuan Li, Wei Li, Karl Henning Halse, Hans Petter Hildre and Houxiang Zhang: *Hierarchical control of marine vehicles for autonomous maneuvering in offshore operations*, **Ship Technology Research**, vol. 62, no. 2, pp. 72–80, DOI: 10.1179/0937725515Z.000000000013, 2015.  [📄](#) [❝](#)
+
+4. Guoyuan Li, Wei Li, Jianwei Zhang and Houxiang Zhang: *Analysis and design of asymmetric oscillation for caterpillar-like locomotion*, **Journal of Bionic Engineering**, vol. 12, no. 2, pp. 190–203, DOI: 10.1016/S1672-6529(14)60112-8, 2015.  [📄](#) [❝](#)
+
+5. Guoyuan Li, Wei Li, Houxiang Zhang and Jianwei Zhang: *Integration of sensory feedback into CPG model for locomotion control of caterpillar-like robot*, in **Proceedings of 2015 IEEE International Conference on Industrial Technology (ICIT2015)**, Seville, Spain, pp. 303–308, March 17–19th, 2015.  [📄](#) [❝](#)
+
+6. Lars Ivar Hatledal, Filippo Sanfilippo, Yingguang Chu and Houxiang Zhang: *A Voxel-Based Numerical Method for Computing and Visualising the Workspace of Offshore Cranes*, in **ASME 2015 34th International Conference on Ocean, Offshore and Arctic Engineering**, American Society of Mechanical Engineers, 2015.  [📄](#) [❝](#)
+
+7. Filippo Sanfilippo and Kristin Ytterstad Pettersen: *XBee Positioning System with Embedded Haptic Feedback for Dangerous Offshore Operations: a Preliminary Study*, in **Proceedings of the MTS/IEEE Oceans ’15 Conference**, Genova, Italy, 2015.
+
+8. Yingguang Chu, Lars Ivar Hatledal, Filippo Sanfilippo, Hans Georg Schaathun, Vilmar Æsøy and Houxiang Zhang: *Virtual Prototyping System for Maritime Crane Design and Operation Based on Functional Mock-up Interface*, in **Proceedings of the MTS/IEEE Oceans ’15 Conference**, Genova, Italy, 2015.  [📄](#) [❝](#)
+
+9. Filippo Sanfilippo, Lars Ivar Hatledal, Houxiang Zhang, Webjørn Rekdalsbakken and Kristin Ytterstad Pettersen: *A Wave Simulator and Active Heave Compensation Framework for Demanding Offshore Crane Operations*, in **Proceedings of the IEEE Canadian Conference on Electrical and Computer Engineering (CCECE 2015)**, Halifax, Canada, 2015, pp. 1588–1593.
+
+10. Filippo Sanfilippo, Houxiang Zhang and Kristin Ytterstad Pettersen: *The New Architecture of ModGrasp for Mind-Controlled Low-Cost Sensorised Modular Hands*, in **Proceedings of the IEEE International Conference on Industrial Technology (ICIT)**, Seville, Spain, 2015, pp. 524–529.
+
+11. Filippo Sanfilippo, Lars Ivar Hatledal, Arne Styve, Houxiang Zhang and Kristin Ytterstad Pettersen: *Integrated Flexible Maritime Crane Architecture for the Offshore Simulation Centre AS (OSC): A Flexible Framework for Alternative Maritime Crane Control Algorithms*, **IEEE Journal of Oceanic Engineering**, vol. 99, pp. 1–12, 2015.
+
+12. Filippo Sanfilippo, Lars Ivar Hatledal, Houxiang Zhang, Massimiliano Fago, Kristin Y. Pettersen: *Controlling Kuka Industrial Robots: Flexible Communication Interface JOpenShowVar*, **IEEE Robotics & Automation Magazine**, vol. 22, no. 4, pp. 96–109, 2015.
+
+13. Dennis Krupke, Norman Hendrich, Jianwei Zhang, Houxiang Zhang: *Gait Optimization Based on Physics Simulation of 3D Robot Models with a Modular Robotic Simulation System*, in **Proceedings of CLAWAR 2015**, 18th International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines, Hangzhou, China, September 6–9, 2015.
+
+14. Yingguang Chu, Vilmar Æsøy, Houxiang Zhang: *Integrated Multi-domain System Modelling and Simulation for Offshore Crane Operations*, **Journal of Ship Technology Research**, vol. 1, pp. 36–46, DOI: 10.1179/0937725515Z.000000000004, 2015.  [📄](#) [❝](#)
+
+15. Yingguang Chu, Vilmar Æsøy: *A multi-body dynamic model based on bond graph for maritime hydraulic crane operation*, in **ASME 2015 34th International Conference on Ocean, Offshore and Arctic Engineering**, American Society of Mechanical Engineers, 2015.  [📄](#) [❝](#)
+
+16. Meteb M. Altaf, Eball H. Ahmad, Wei Li, Houxiang Zhang, Guoyuan Li and Changshun Yuan: *An ultra-high-speed FPGA based digital correlation processor*, **IEICE Electronics Express**, vol. 12, no. 8, pp. 1–7, 2015.
+
+17. Cong Liu, Hans Petter Hildre, Houxiang Zhang and Terje Rølvåg: *Conceptual design of multi-modal products*, **Research in Engineering Design**, vol. 26, no. 3, pp. 219–234, DOI: 10.1007/s00163-015-0193-0, 2015.
+
+18. Cong Liu, Hans Petter Hildre, Houxiang Zhang and Terje Rølvåg: *A revision of product architecture design for multi-modal products*, in **Proceedings of the 20th International Conference on Engineering Design (ICED 15)**, Vol 7: Product Modularisation, Product Architecture, Systems Engineering, Product Service Systems, Milan, Italy, 27–30 July 2015, pp. 83–92.
+
+### 2014
+1. Guoyuan Li, Houxiang Zhang, Jianwei Zhang and Robin T. Bye: *Development of adaptive locomotion of a caterpillar-like robot based on a sensory feedback CPG model*, **Advanced Robotics**, vol. 28, no. 6, pp. 389–401, DOI: 10.1080/01691864.2013.867283, 2014. [📄](#) [❝](#)
+
+2. Shusheng Bi, Chuanmeng Niu, Yueri Cai, Lige Zhang and Houxiang Zhang: *A waypoint-tracking controller for a bionic autonomous underwater vehicle with two pectoral fins*, **Advanced Robotics**, vol. 28, no. 10, pp. 673–681, 2014.
+
+3. Guoyuan Li, Houxiang Zhang, Jianwei Zhang and Hans Petter Hildre: *An approach for adaptive limbless locomotion using a CPG-based reflex mechanism*, **Journal of Bionic Engineering**, vol. 11, no. 3, pp. 389–399, DOI: 10.1016/S1672-6529(14)60052-4, 2014. [📄](#) [❝](#)
+
+4. Guoyuan Li, Houxiang Zhang, Wei Li, Hans Petter Hildre and Jianwei Zhang: *Design of neural circuit for sidewinding of snake-like robots (Best paper in Information)*, in **Proceeding of 2014 IEEE International Conference on Information and Automation (ICIA2014)**, July 26–29, 2014, pp. 333–338. [📄](#) [❝](#)
+
+5. Yingguang Chu, Filippo Sanfilippo, Vilmar Æsøy, Houxiang Zhang: *An Effective Heave Compensation and Anti-sway Control Approach for Offshore Hydraulic Crane Operations*, in **Proceedings of the IEEE International Conference on Mechatronics and Automation**, 2014, Tianjin, China, pp. 1282–1287. [📄](#) [❝](#)
+
+6. Yingguang Chu, Øyvind Bunes, Vilmar Æsøy, Houxiang Zhang: *Modelling and Simulation of An Offshore Hydraulic Crane*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, 2014, Brescia, Italy, pp. 87–93. [📄](#) [❝](#)
+
+7. Johnny Aarseth, Alf Helge Lien, Øyvind Bunes, Yingguang Chu, Vilmar Æsøy: *A Hardware-In-The-Loop Simulator for Offshore Machinery Control System Testing*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, 2014, Brescia, Italy, pp. 57–63.
+
+8. Filippo Sanfilippo, Lars Ivar Hatledal, Houxiang Zhang and Kristin Ytterstad Pettersen: *A Mapping Approach for Controlling Different Maritime Cranes and Robots Using ANN*, in **Proceeding of the IEEE International Conference on Mechatronics and Automation (ICMA)**, Tianjin, China, 2014, pp. 594–599.
+
+9. Filippo Sanfilippo, Lars Ivar Hatledal, Houxiang Zhang, Massimiliano Fago and Kristin Ytterstad Pettersen: *JOpenShowVar: an Open-Source Cross-Platform Communication Interface to Kuka Robots (Best Student Paper)*, in **Proceeding of the IEEE International Conference on Information and Automation (ICIA)**, Hailar, China, 2014, pp. 1154–1159.
+
+10. Lars Ivar Hatledal, Filippo Sanfilippo and Houxiang Zhang: *JIOP: a Java Intelligent Optimisation and Machine Learning Framework*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, Brescia, Italy, 2014, pp. 101–107. [📄](#) [❝](#)
+
+11. Filippo Sanfilippo, Ottar Laurits Osen and Saleh Alaliyyat: *Recycling a Discarded Robotic Arm for Automation Engineering Education*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, Brescia, Italy, 2014, pp. 81–86.
+
+12. Webjørn Rekdalsbakken and Filippo Sanfilippo: *Enhancing Undergraduate Research and Learning Methods on Real-Time Processes by Cooperating with Maritime Industries*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, Brescia, Italy, 2014, pp. 108–114.
+
+13. Saleh Alaliyyat, Harald Yndestad and Filippo Sanfilippo: *Optimisation of Boids Swarm Model Based on Genetic Algorithm and Particle Swarm Optimisation Algorithm (Comparative Study)*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, Brescia, Italy, 2014, pp. 643–650.
+
+14. Webjørn Rekdalsbakken and Filippo Sanfilippo: *Including Bachelor Students in Research Activities in Real-Time Process Control*, in **Amdam Jørgen, Øyvind Helgesen and Knut-Willy Sæther (eds.), Det Mangfaldige Kvalitetsomgrepet: Fjordantologi 2013**, Forlag1, January 2014, pp. 279–297.
+
+15. Filippo Sanfilippo, Houxiang Zhang, Kristin Ytterstad Pettersen, Gionata Salvietti and Domenico Prattichizzo: *ModGrasp: an Open-Source Rapid-Prototyping Framework for Designing Low-Cost Sensorised Modular Hands (Finalist candidate as Best Student Paper)*, in **Proceeding of the 5th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)**, São Paulo, Brazil, 2014, pp. 951–957.
+
+16. Wei Li, Houxiang Zhang, Hans Petter Hildre, Jun Wang: *An FPGA-based real-time UAV SAR raw signal simulator*, **IEICE Electron. Express**, vol. 11, no. 11, pp. 1–13, 2014.
+
+17. Wei Li, Houxiang Zhang, Hans Petter Hildre: *A real-time UAV INSAR raw signal simulator for HWIL simulation system*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, 2014, Brescia, Italy.
+
+18. Karl Henning Halse, Vilmar Æsøy, Dimitry Ponkratov, Yingguang Chu, Jiafeng Xu, Eilif Pedersen: *Lifting operations using small construction vessels and active heave compensation system — a simulation approach*, in **Proceedings of the International Conference on Ocean, Offshore and Arctic Engineering**, 2014, California, USA.
+
+### 2013
+1. Junhao Xiao, Jianhua Zhang, Benjamin Adler, Houxiang Zhang, Jianwei Zhang:  
+   *Three-dimensional point cloud plane segmentation in both structured and unstructured environments*,  
+   **Robotics and Autonomous Systems**, Volume 61, Issue 12, December 2013, pp. 1641–1652.
+
+2. Junhao Xiao, Benjamin Adler, Jianwei Zhang, Houxiang Zhang:  
+   *Planar Segment Based Three-dimensional Point Cloud Registration in Outdoor Environments*,  
+   **Journal of Field Robotics**, vol. 30, no. 4, pp. 552–582, 2013.
+
+3. Filippo Sanfilippo, Hans Petter Hildre, Vilmar Æsøy, Houxiang Zhang, Eilif Pedersen:  
+   *Flexible Modeling and Simulation Architecture for Haptics Control of Maritime Cranes and Robotics Arms*,  
+   in **The Proceedings 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
+   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 235–242.  
+   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+
+4. Siebe B. van Albada, G. Dick van Albada, Hans Petter Hildre, Houxiang Zhang:  
+   *A Novel Approach to Anti-sway Control for Marine Shipboard Cranes*,  
+   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
+   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 249–256.  
+   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+
+5. Cong Liu, Eilif Pedersen, Vilmar Æsøy, Hans Petter Hildre, Houxiang Zhang:  
+   *Dynamic Modelling of the “SEARAZOR”–An Interdisciplinary Marine Vehicle for Ship Hull Inspection and Maintenance*,  
+   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
+   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 705–711.  
+   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+
+6. Yichun Xu, Cong Liu, Dongchen Qin, Houxiang Zhang:  
+   *Thrust Analysis on a Single-drive Robotic Fish*,  
+   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
+   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 719–725.  
+   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+
+7. Yueri Cai, Jun Gao, Shusheng Bi, Cong Liu, Houxiang Zhang:  
+   *Pitching Stability Simulation of a Bionic Cownose Ray*,  
+   in **The 27th European Conference on Modeling and Simulation (ECMS 2013)**,  
+   Webjørn Rekdalsbakken, Robin T. Bye, Houxiang Zhang (Eds.), May 27–30, Aalesund, Norway, 2013, pp. 726–732.  
+   ISBN: 978-0-9564944-6-7 / 978-0-9564944-7-4 (CD)
+
+8. Filippo Sanfilippo, Lars Ivar Hatledal, Hans Georg Schaathun, Kristin Ytterstad Pettersen, Houxiang Zhang:  
+   *A Universal Control Architecture for Maritime Cranes and Robots Using Genetic Algorithms as a Possible Mapping Approach*,  
+   **The Proceedings of IEEE Robio 2013**, Shenzhen, China, Dec. 12–14, 2013, pp. 322–327.
+
+9. Shuai Ren, Yueri Cai, Shusheng Bi, Lige Zhang, Houxiang Zhang:  
+   *Kinematic Analysis and Design of a Robotic Fish Using Flapping and Flexional Pectoral Fins for Propulsion*,  
+   **The Proceedings of IEEE Robio 2013**, Shenzhen, China, Dec. 12–14, 2013, pp. 836–841.
+
+10. Kun Wang, Wei Wang, Houxiang Zhang:  
+    *The Mechanical Properties of a Wall-Climbing Caterpillar Robot: Analysis and Experiment*,  
+    **International Journal of Advanced Robotic System**, Vol. 10, No. 34, pp. 1–11, 2013.
+
+### 2012
+1. Shengyong Chen, Jianwei Zhang, Houxiang Zhang, N.M. Kwok, Youfu Li:  
+   *Intelligent Lighting Control for Vision-Based Robotic Manipulation*,  
+   **IEEE Transactions on Industrial Electronics**, Vol. 59, No. 8, 2012, pp. 3254–3263.
+
+2. Chunyan Yao, Jianwei Zhang, Guang Wu, Houxiang Zhang:  
+   *Motion Analysis of Live Objects by Super-Resolution Fluorescence Microscopy*,  
+   **Computational and Mathematical Methods in Medicine**, Vol. 2012, 2012, Article ID 859398, 8 pages.
+
+3. Kun Wang, Wei Wang, Houxiang Zhang:  
+   *Analysis of Gait and Mechanical Property of Wall-climbing Caterpillar Robot*,  
+   **Journal of Computers**, vol. 7, 2012, pp. 706–715.
+
+4. Kun Wang, Wei Wang, Houxiang Zhang, Jiancheng Fang:  
+   *Suction Force of Vibrating Suction Method Based on Pi Theorem: Analysis and Experiment*,  
+   **Vacuum**, Vol. 86, Issue 12, 20 July, 2012, pp. 1783–1788.
+
+5. Cong Liu, Filippo Sanfilippo, Houxiang Zhang, Hans Petter Hildre, Chang Liu, Shusheng Bi:  
+   *Locomotion Analysis of A Modular Pentapedal Walking Robot*,  
+   **The Proceedings of the 26th European Conference on Modelling and Simulation (ECMS 2012)**,  
+   Klaus G. Troitzsch, Michael Möhring, Ulf Lotzmann (Eds.), May 29 – June 2, 2012, Koblenz, Germany.  
+   ISBN: 978-0-9564944-4-3 / 978-0-9564944-5-0 (CD) [📄](#) [❝](#)
+
+6. Dennis Krupke, Guoyuan Li, Jianwei Zhang, Houxiang Zhang, Hans Petter Hildre:  
+   *Flexible Modular Robotic Simulation Environment for Research and Education*,  
+   **Proceedings of the 26th European Conference on Modelling and Simulation (ECMS 2012)**,  
+   Klaus G. Troitzsch, Michael Möhring, Ulf Lotzmann (Eds.), May 29 – June 2, 2012, Koblenz, Germany.  
+   ISBN: 978-0-9564944-4-3 / 978-0-9564944-5-0 (CD) [📄](#) [❝](#)
+
+7. Junhao Xiao and Benjamin Adler and Houxiang Zhang:  
+   *3D Point Cloud Registration Based on Planar Surfaces*,  
+   **2012 IEEE International Conference on Multisensor Fusion and Information Integration**,  
+   September 13–15, 2012, Hamburg, Germany, pp. 40–45.
+
+8. Martin Noeske, Dennis Krupke, Norman Hendrich, Jianwei Zhang, Houxiang Zhang:  
+   *Interactive Control Parameter Investigation Of Modular Robotic Simulation Environment Based On Wiimote–HCI’s Multi Sensor Fusion*,  
+   **2012 IEEE International Conference on Multisensor Fusion and Information Integration**,  
+   Hamburg, Germany, pp. 478–483.
+
+9. Filippo Sanfilippo, Gionata Salvietti, Houxiang Zhang, Hans Petter Hildre, Domenico Prattichizzo:  
+   *Efficient Modular Grasping: An Iterative Approach*,  
+   In Proceedings of the **4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)**,  
+   Rome, Italy, 2012, pp. 1281–1286.
+
+### 2011
+1. Jianhua Zhang, Junhao Xiao, Houxiang Zhang, Jianwei Zhang, Shengyong Chen:  
+   *Integrate Multi-Modal Cues for Category-Independent Object Detection and Localization*,  
+   **Proceedings of the 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011)**,  
+   Sept. 25–30, 2011, San Francisco, CA, USA, pp. 801–806.
+
+2. Kun Wang, Wei Wang, Houxiang Zhang:  
+   *Analysis and Design of Attachment Module Based on Sine Vibrating Suction Method for Wall-climbing Robot*,  
+   **Procedia Engineering**, vol. 12, 2011, pp. 9–14.
+
+3. Kun Wang, Wei Wang, Houxiang Zhang:  
+   *Development and Experiment of Wall-climbing Caterpillar Robot*,  
+   **Advanced Materials Research**, vol. 308–310, 2011, pp. 2031–2036.
+
+4. Kun Wang, Zhiqiang Wang, Houxiang Zhang:  
+   *Development of Modular Wall-climbing Robot Inspired by Natural Caterpillar*,  
+   **2011 IEEE 2nd International Conference on Computing, Control and Industrial Engineering**,  
+   August 20–21, 2011, Wuhan, China, pp. 293–297.
+
+5. Guoyuan Li, Houxiang Zhang, Fernando Herrero-Carron, Hans Petter Hildre, Jianwei Zhang:  
+   *A Novel Mechanism for Caterpillar-like Locomotion Using Asymmetric Oscillation*,  
+   **Proceedings of the 2011 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 2011)**,  
+   Budapest, Hungary, July 3–7, 2011, pp. 164–169. [📄](#) [❝](#)
+
+6. Kun Wang, Zhiqiang Wang, Houxiang Zhang:  
+   *Development of Modular Wall-climbing Robot Inspired by Natural Caterpillar*,  
+   **Proceedings of the 2011 IEEE International Conference on Computing, Control and Industrial Engineering (CCIE 2011)**,  
+   Wuhan, China, August 20–21, 2011, pp. 293–297.
+
+7. Junhao Xiao, Jianhua Zhang, Jianwei Zhang, Houxiang Zhang, Hans Petter Hildre:  
+   *Fast Plane Detection for SLAM from Noisy Range Images in Both Structured and Unstructured Environments*,  
+   **Proceedings of the 2011 IEEE International Conference on Mechatronics and Automation (ICMA 2011)**,  
+   Beijing, China, August 7–10, 2011, pp. 1768–1773.
 
 ---
 ## <span id="doctoral">Doctoral Dissertations</span>
