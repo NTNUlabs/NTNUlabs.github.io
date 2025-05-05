@@ -11,9 +11,10 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
-    url: post
-    weight: 100
+    
+  # - name: News
+  #   url: post
+  #   weight: 100
 
   - name: People
     url: people
@@ -38,9 +39,9 @@ main:
     parent: research
     weight: 3
 
-  - name: Events
-    url: event
-    weight: 80
+  # - name: Events
+  #   url: event
+  #   weight: 80
 
   - name: Publications
     url: publication
