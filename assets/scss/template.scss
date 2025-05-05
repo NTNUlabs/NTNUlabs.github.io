@@ -59,9 +59,6 @@ h4 {
   font-size: 1.25rem;
 }
 
-body {
-  background-color: #f5f5f5; /* 修改为你想要的背景色，例如淡灰色 */
-}
 
 // /* 拓宽页面 */
 // .container {
@@ -88,4 +85,43 @@ body {
   height: auto;
   display: block;
   margin: 1rem auto; /* 可选：图片居中并留白 */
+}
+
+/* 设置全局背景颜色为护眼绿色 */
+body {
+  background-color: #e8f5e9 !important;  /* 淡绿色豆沙色 */
+  color: #1a1a1a;  /* 保持文字深色，确保可读性 */
+}
+
+/* 修正文章容器背景（Markdown区块、正文内容） */
+.article-container,
+.page-body,
+.content,
+.section-markdown,
+.markdown,
+.markdown-content,
+#main,
+#content,
+.widget,
+.hero,
+.section {
+  background-color: #e8f5e9 !important;
+  color: #1a1a1a;
+}
+
+/* 如果有卡片式组件，调整卡片背景 */
+.card,
+.card-content,
+.card-body,
+.markdown > div,
+.markdown blockquote,
+.markdown pre {
+  background-color: #f0fdf4 !important;
+}
+
+/* 代码块优化对比度 */
+pre code,
+code {
+  background-color: #d7f0da !important;
+  color: #2e3b2c;
 }
