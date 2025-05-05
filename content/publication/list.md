@@ -18,19 +18,14 @@ Welcome to our full list of publications. Click on any title below to view more 
 ## <span id="journal">Journal and Conference Papers</span>
 
 ### 2025
-
 1. Weiwei Tian, Beatriz Sanguino, Mingda Zhu, Øivind Kåre Kjerstad, Guoyuan Li and Houxiang Zhang: *Knowledge extraction from decision-making data for maritime navigation support*,  
    **Ocean Engineering**, vol. 331, DOI: 10.1016/j.oceaneng.2025.121268, 2025.[📄](https://www.cambridge.org/core/journals/research-directions-cyber-physical-systems/article/robotic-safe-adaptation-in-unprecedented-situations-the-robosapiens-project/C38E33D46B0585DD692F1597C3172EE9) [❝](#)
 
 2. Runze Mao, Yuanjiang Li, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang:*A Systematic survey of digital twin applications: transferring knowledge from automotive and aviation to maritime industry*, **IEEE Transactions on Intelligent Transportation Systems**, vol. 26, no 4, pp. 4240–4259, DOI: 10.1109/TITS.2025.3535593, 2025.[📄](https://ieeexplore.ieee.org/document/10679891) [❝](https://ieeexplore.ieee.org/document/10679891)
 
-3. Tongtong Wang, Robert Skulstad and Houxiang Zhang:  
-   *Physics-informed neural networks for robust system identification of ship roll dynamics with noise resilience*,  
-   **IEEE Transactions on Industrial Informatics**, 2025, accepted.[📄](#) [❝](#)
+3. Tongtong Wang, Robert Skulstad and Houxiang Zhang:*Physics-informed neural networks for robust system identification of ship roll dynamics with noise resilience*, **IEEE Transactions on Industrial Informatics**, 2025, accepted.[📄](#) [❝](#)
 
-4. Tongtong Wang, Robert Skulstad, Finn Tore Holmeset, Karl Henning Halse, Hans Petter Hildre and Houxiang Zhang:  
-   *Full-scale experimental research on wave shielding effect of RV Gunnerus for offshore operations*,  
-   **Ocean Engineering**, vol. 320, DOI: 10.1016/j.oceaneng.2024.120189, 2025.[📄](#) [❝](#)
+4. Tongtong Wang, Robert Skulstad, Finn Tore Holmeset, Karl Henning Halse, Hans Petter Hildre and Houxiang Zhang: *Full-scale experimental research on wave shielding effect of RV Gunnerus for offshore operations*, **Ocean Engineering**, vol. 320, DOI: 10.1016/j.oceaneng.2024.120189, 2025.[📄](#) [❝](#)
 
 5. Mingda Zhu, Peihua Han, Weiwei Tian, Robert Skulstad, Houxiang Zhang and Guoyuan Li: *A deep generative model for multi-ship trajectory forecasting with interaction modelling*, **Journal of Offshore Mechanics and Arctic Engineering**, DOI: 10.1115/1.4065866, 2025. [📄](#) [❝](#)
 
@@ -41,6 +36,7 @@ Welcome to our full list of publications. Click on any title below to view more 
 8. Beatriz Sanguino, Tongtong Wang, Øivind Kjerstad, Guoyuan Li and Houxiang Zhang: *Real-time interaction with a ship bridge simulator via a multi-threaded framework*, *The 8th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)*, Emden, Germany, May 12–15, 2025. [📄](#) [❝](#)
 
 9. Tongtong Wang, Beatriz Sanguino, Guoyuan Li and Houxiang Zhang: *Adaptive and continuous maritime vessel trajectory prediction under varying environments with uncertainty awareness*, *The 8th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)*, Emden, Germany, May 12–15, 2025. [📄](#) [❝](#)
+---
 
 ### 2024
 
@@ -94,6 +90,7 @@ Welcome to our full list of publications. Click on any title below to view more 
 24. Zizheng Liu, Yingguang Chu, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang: *A co-simulation approach to onboard support of marine operation: a Palfinger crane path planning case*, **Simulation**, DOI: 10.1177/00375497241228623, 2024. [📄](#) [❝](#)
 
 25. Xu Cheng, Guoyuan Li, Robert Skulstad and Houxiang Zhang: *SAFENESS: a semi-supervised transfer learning approach for sea state estimation using ship motion data*, **IEEE Transactions on Intelligent Transportation Systems**, vol. 25, no. 5, pp. 3352–3363, DOI: 10.1109/TITS.2023.3326281, 2024. [📄](#) [❝](#)
+---
 
 ### 2023
 
@@ -160,6 +157,7 @@ Welcome to our full list of publications. Click on any title below to view more 
 31. Qin Liang, Knut Erik Knutsen, Erik Vanem, Vilmar Æsøy and Houxiang Zhang: *Unsupervised anomaly detection in marine diesel engines using transformer neural networks and residual analysis*, **4th Asia Pacific Conference of the Prognostics and Health Management**, Tokyo, Japan, September 11–14, 2023. [📄](#) [❝](#)
 
 32. Guofa Li, Cristina Olaverri-Monreal, Houxiang Zhang, Keqiang Li, Paul Green: *Preface for human-Like smart autonomous driving for intelligent vehicles and transportation systems*, **Automotive Innovation**, vol. 6, pp. 1–2, DOI: 10.1007/s42154-023-00217-4, 2023. [📄](#) [❝](#)
+---
 
 ### 2022
 
@@ -212,6 +210,7 @@ Welcome to our full list of publications. Click on any title below to view more 
 24. Chunlin Wang, Torodd Skjerve Nord and Guoyuan Li: *Automated modal parameters identification during ice-structure interactions*, **ASME 41st International Conference on Ocean, Offshore and Arctic Engineering (OMAE)**, Hamburg, Germany, June 5–10, 2022. [📄](#) [❝](#)
 
 25. Saravanan Bhaskaran, Shuai Yuan, Karl Henning Halse and Amrit Shankar Verma: *Dynamic analysis of blade mating process using jack-up crane vessel: a code-to-code comparison*, **ASME 41st International Conference on Ocean, Offshore and Arctic Engineering (OMAE)**, Hamburg, Germany, June 5–10, 2022. [📄](#) [❝](#)
+---
 
 ### 2021
 
@@ -265,14 +264,7 @@ Welcome to our full list of publications. Click on any title below to view more 
 
 25. Guoyuan Li, Erlend Holseker, Arvin Khodabandeh, Isak Gamnes Sneltvedt, Erik Bjørnøy and Houxiang Zhang: *Development of a manufacturing system for gear assembly using collaborative robots*, **IEEE International Conference on Mechatronics and Automation (ICMA)**, Takamatsu, Japan, pp. 22–27, August 8–11, 2021.  [📄](#) [❝](#)
 
-
-
-
-
 ---
-
-
-
 
 ### 2020
 
@@ -316,6 +308,9 @@ Welcome to our full list of publications. Click on any title below to view more 
 20. Yonghui Shuai, Guoyuan Li, Jinshan Xu, and Houxiang Zhang: *An effective ship control strategy for collision-free maneuver toward a dock*, **IEEE Access**, vol. 8, pp. 110140–110152, DOI: [10.1109/ACCESS.2020.3001976](https://doi.org/10.1109/ACCESS.2020.3001976), 2020.  [📄](#) [❝](#)
 
 21. Øyvind Smogeli, Kristine Bruun Ludvigsen, Levi Jamt, Bjørnar Vik, Håvard Nordahl, Lars Tandle Kyllingstad, Kevin Koosup Yum, and Houxiang Zhang: *Open Simulation Platform – An Open-Source Project for Maritime System Co-Simulation*, **19th International Conference on Computer and IT Applications in the Maritime Industries**, Pontignano, Italy, 17–19 August 2020.
+
+---
+
 
 ### 2019
 1. Robert Skulstad, Guoyuan Li, Thor I. Fossen, Bjørnar Vik and Houxiang Zhang: *Dead reckoning of dynamically positioned ships: using an efficient recurrent neural network*, **IEEE Robotics & Automation Magazine**, vol. 26, no. 3, pp. 39–51, DOI: [10.1109/MRA.2019.2918125](https://doi.org/10.1109/MRA.2019.2918125), 2019.  [📄](#) [❝](#)
@@ -368,6 +363,8 @@ Welcome to our full list of publications. Click on any title below to view more 
 
 25. Luman Zhao and Myung-Il Roh: *COLREGs-compliant multiship collision avoidance based on deep reinforcement learning*, **Ocean Engineering**, accepted, DOI: [10.1016/j.oceaneng.2019.106436](https://doi.org/10.1016/j.oceaneng.2019.106436).  [📄](#) [❝](#)
 
+---
+
 
 ### 2018
 1. Xu Cheng, Guoyuan Li, Robert Skulstad, Shengyong Chen, Hans Petter Hildre and Houxiang Zhang: *A neural network-based sensitivity analysis approach for data-driven modeling of ship motion*, **IEEE Journal of Oceanic Engineering**, vol. 45, no. 2, pp. 451–461, DOI: 10.1109/JOE.2018.2882276, 2020.  [📄](#) [❝](#)
@@ -387,6 +384,8 @@ Welcome to our full list of publications. Click on any title below to view more 
 8. Chunlin Wang, Xu Cheng, Guoyuan Li, Shengyong Chen and Houxiang Zhang: *A SVM-based sensitivity analysis approach for data-driven modeling of ship motion*, in **Proceedings of 2018 IEEE International Conference on Mechatronics and Automation (ICMA 2018)**, Changchun, China, pp. 803–808, August 5–8, 2018.  [📄](#) [❝](#)
 
 9. André Listou Ellefsen, Emil Bjørlykhaug, Vilmar Æsøy, Sergey Ushakov, and Houxiang Zhang: *Remaining useful life predictions for turbofan engine degradation using semi-supervised deep architecture*, **Reliability Engineering & System Safety**, vol. 183, pp. 240–251, DOI: 10.1016/j.ress.2018.11.027, 2018.  [📄](#) [❝](#)
+
+---
 
 ### 2017
 1. Yingguang Chu, Lars Ivar Hatledal, Vilmar Æsøy, Sören Ehlers and Houxiang Zhang: *An object-oriented modeling approach to virtual prototyping of marine operation systems based on functional mock-up interface co-simulation*, **Journal of Offshore Mechanics and Arctic Engineering**, vol. 140, no. 2, pp. 021601, DOI: 10.1115/1.4038346, 2017.  [📄](#) [❝](#)
@@ -433,6 +432,8 @@ Welcome to our full list of publications. Click on any title below to view more 
 
 22. Guoyuan Li, Bikram Kawan, Hao Wang, and Houxiang Zhang: *Neural-network-based modeling and analysis for time series prediction of ship motion*, **Ship Technology Research**, vol. 64, no. 1, pp. 30–39, DOI: 10.1080/09377255.2017.1309786, 2017.  [📄](#) [❝](#)
 
+---
+
 ### 2016
 1. Jian Ma, Ping Shi, Xuan Qian, Wei Li and Yang Ji: *Spin noise spectroscopy of rubidium atomic gas under resonant and non-resonant conditions*, **Chin. Phys. B**, vol. 25, no. 11, 2016.
 
@@ -457,6 +458,8 @@ Welcome to our full list of publications. Click on any title below to view more 
 11. Hao Wang, Xu Zhuge, Girts Strazdins, Zheng Wei, Guoyuan Li and Houxiang Zhang: *Data integration and visualisation for demanding marine operations*, in **OCEANS MTS/IEEE 2016**, Shanghai.  [📄](#) [❝](#)
 
 12. Cong Liu, Hans Petter Hildre, Houxiang Zhang and Terje Rølvåg: *Product architecture design of multimodal products*, **Research in Engineering Design**, DOI: 10.1007/s00163-016-0221-8, 2016.  [📄](#) [❝](#)
+
+---
 
 
 ### 2015
@@ -496,6 +499,8 @@ Welcome to our full list of publications. Click on any title below to view more 
 
 18. Cong Liu, Hans Petter Hildre, Houxiang Zhang and Terje Rølvåg: *A revision of product architecture design for multi-modal products*, in **Proceedings of the 20th International Conference on Engineering Design (ICED 15)**, Vol 7: Product Modularisation, Product Architecture, Systems Engineering, Product Service Systems, Milan, Italy, 27–30 July 2015, pp. 83–92.
 
+---
+
 ### 2014
 1. Guoyuan Li, Houxiang Zhang, Jianwei Zhang and Robin T. Bye: *Development of adaptive locomotion of a caterpillar-like robot based on a sensory feedback CPG model*, **Advanced Robotics**, vol. 28, no. 6, pp. 389–401, DOI: 10.1080/01691864.2013.867283, 2014. [📄](#) [❝](#)
 
@@ -532,6 +537,8 @@ Welcome to our full list of publications. Click on any title below to view more 
 17. Wei Li, Houxiang Zhang, Hans Petter Hildre: *A real-time UAV INSAR raw signal simulator for HWIL simulation system*, in **Proceedings of the 28th European Conference on Modelling and Simulation (ECMS)**, 2014, Brescia, Italy.
 
 18. Karl Henning Halse, Vilmar Æsøy, Dimitry Ponkratov, Yingguang Chu, Jiafeng Xu, Eilif Pedersen: *Lifting operations using small construction vessels and active heave compensation system — a simulation approach*, in **Proceedings of the International Conference on Ocean, Offshore and Arctic Engineering**, 2014, California, USA.
+
+---
 
 ### 2013
 1. Junhao Xiao, Jianhua Zhang, Benjamin Adler, Houxiang Zhang, Jianwei Zhang:  
@@ -584,6 +591,8 @@ Welcome to our full list of publications. Click on any title below to view more 
     *The Mechanical Properties of a Wall-Climbing Caterpillar Robot: Analysis and Experiment*,  
     **International Journal of Advanced Robotic System**, Vol. 10, No. 34, pp. 1–11, 2013.
 
+---
+
 ### 2012
 1. Shengyong Chen, Jianwei Zhang, Houxiang Zhang, N.M. Kwok, Youfu Li:  
    *Intelligent Lighting Control for Vision-Based Robotic Manipulation*,  
@@ -627,6 +636,8 @@ Welcome to our full list of publications. Click on any title below to view more 
    *Efficient Modular Grasping: An Iterative Approach*,  
    In Proceedings of the **4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)**,  
    Rome, Italy, 2012, pp. 1281–1286.
+
+---
 
 ### 2011
 1. Jianhua Zhang, Junhao Xiao, Houxiang Zhang, Jianwei Zhang, Shengyong Chen:  
