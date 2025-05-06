@@ -23,7 +23,7 @@ Welcome to our full list of publications. Click on any title below to view more 
 
 2. Runze Mao, Yuanjiang Li, Guoyuan Li, Hans Petter Hildre and Houxiang Zhang:*A Systematic survey of digital twin applications: transferring knowledge from automotive and aviation to maritime industry*, **IEEE Transactions on Intelligent Transportation Systems**, vol. 26, no 4, pp. 4240–4259, DOI: 10.1109/TITS.2025.3535593, 2025.[📄](https://ieeexplore.ieee.org/document/10679891) [❝](https://ieeexplore.ieee.org/document/10679891)
 
-3. Tongtong Wang, Robert Skulstad and Houxiang Zhang:*Physics-informed neural networks for robust system identification of ship roll dynamics with noise resilience*, **IEEE Transactions on Industrial Informatics**, 2025, accepted.[📄](#) [❝](#)
+3. Tongtong Wang, Robert Skulstad and Houxiang Zhang:*Physics-informed neural networks for robust system identification of ship roll dynamics with noise resilience*, **IEEE Transactions on Industrial Informatics**, 2025, accepted.[📄](https://intelligentsystemslab.org.ntnu.no/publication.html) [❝](https://intelligentsystemslab.org.ntnu.no/publication.html)
 
 4. Tongtong Wang, Robert Skulstad, Finn Tore Holmeset, Karl Henning Halse, Hans Petter Hildre and Houxiang Zhang: *Full-scale experimental research on wave shielding effect of RV Gunnerus for offshore operations*, **Ocean Engineering**, vol. 320, DOI: 10.1016/j.oceaneng.2024.120189, 2025.[📄](#) [❝](#)
 
