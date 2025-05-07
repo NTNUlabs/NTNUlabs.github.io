@@ -18,8 +18,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
-  url: ""
+- name: Norges teknisk-naturvitenskapelige universitet
+  url: 'https://www.ntnu.edu/'
 
 
 
