@@ -13,12 +13,12 @@ sections:
         Our research group is based under the MOVE research framework and belongs to <a href="https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering" target="_blank">the Department of Ocean Operations and Civil Engineering</a> under <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>.
         The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
       image:
-        filename: togehter.jpg
+        filename: together.jpg
         alt_text: Group photo
     design:
       alignment: right
-      width: normal
-      
+      width: wide
+
   - block: people
     content:
       title: ''
