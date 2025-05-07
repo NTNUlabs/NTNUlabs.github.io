@@ -90,7 +90,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: togehter.jpg
+          filename: together.jpg
           filters:
             brightness: 1
           parallax: false
