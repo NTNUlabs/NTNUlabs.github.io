@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Genetic Logic Lab
+title: Intelligent Systems Lab
 
 # Username (this should match the folder name)
 authors:
@@ -68,7 +68,8 @@ user_groups:
 
 ---
 
-The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs.
+The Intelligent Systems Lab is run by <a href="/author/houxiang zhang/">Houxiang Zhang</a>. 
+Our research group is based under the MOVE research framework and belongs to the Department of Ocean Operations and Civil Engineering under the Faculty of Engineering. The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
 
 <!-- Can uncomment below for advertising -->
 <!-- The Genetic Logic Lab is always looking for talented undergraduate and graduate students. If you're interested in working in the new, exciting interdisciplinary field of synthetic biology, feel free to <a href="/#contact">reach out</a>! --> 
@@ -76,4 +77,4 @@ The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. 
 <!-- Can uncomment below for outreach -->
 <!-- We are hosting an outreach event for undergraduate students interested in synthetic biology! <a href="/outreach/">Click here for more info and to register</a>! -->
 
-<img src="files/GLL_groupphoto_summer24.png" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">
+<img src="files/together" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">

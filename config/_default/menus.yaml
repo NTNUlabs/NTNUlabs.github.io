@@ -8,9 +8,9 @@ main:
   #   url: home
   #   weight: 10
 
-  - name: Tour
-    url: tour
-    weight: 10
+  # - name: Tour
+  #   url: tour
+  #   weight: 10
     
   # - name: News
   #   url: post
