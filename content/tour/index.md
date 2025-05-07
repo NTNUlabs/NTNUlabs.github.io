@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Tour
 date: 2025-05-01
 
@@ -56,4 +56,4 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 4000
----
+--- -->
