@@ -46,13 +46,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/NTNU_ISL
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/MyersResearchGroup
+  link: https://github.com/NTNUlabs/NTNUlabs.github.io
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,4 +77,4 @@ Our research group is based under the MOVE research framework and belongs to the
 <!-- Can uncomment below for outreach -->
 <!-- We are hosting an outreach event for undergraduate students interested in synthetic biology! <a href="/outreach/">Click here for more info and to register</a>! -->
 
-<img src="files/together" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">
+<img src="files/together.jpg" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">
