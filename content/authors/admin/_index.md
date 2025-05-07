@@ -68,7 +68,7 @@ user_groups:
 
 ---
 
-The Intelligent Systems Lab is run by <a href="/author/houxiang zhang/">Houxiang Zhang</a>. 
+The Intelligent Systems Lab is run by <a href="/authors/houxiang zhang/">Houxiang Zhang</a>. 
 Our research group is based under the MOVE research framework and belongs to the Department of Ocean Operations and Civil Engineering under the Faculty of Engineering. The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
 
 <!-- Can uncomment below for advertising -->
