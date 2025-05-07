@@ -19,14 +19,14 @@ sections:
       alignment: right
       width: wide
 
-  - block: people
-    content:
-      title: ''
-      subtitle: ''
-      filter: admin
-    design:
-      show_social: true
-      view: compact  # 可以用 'card' 或 'compact'
+  # - block: people
+  #   content:
+  #     title: ''
+  #     subtitle: ''
+  #     filter: admin
+  #   design:
+  #     show_social: true
+  #     view: compact  # 可以用 'card' 或 'compact'
 
   - block: markdown
     content:
