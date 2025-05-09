@@ -19,12 +19,14 @@
   }
 
   .home-left img {
+    display: block;          /* 让图片成为可居中的块级元素 */
+    margin: 0 auto;          /* 左右自动间距，即居中 */
     width: 200px;
     height: auto;
     margin-bottom: 1rem;
     border-radius: 50%;
   }
-
+  
   .home-right {
     flex: 2;
     max-width: 800px;
@@ -69,7 +71,7 @@
       the Department of Ocean Operations and Civil Engineering</a> under <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>. 
       The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
     </p>
-    <img src="{{ "media/together.jpg" | relURL }}" alt="Group Photo" style="width:100%; margin-top:2rem;" />
+    <img src="{{ "media/together.jpg" | relURL }}" alt="Group Photo" style="width:100%; margin: auto;" />
   </div>
 </div>
 
