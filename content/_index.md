@@ -5,13 +5,13 @@ date: 2025-05-01
 type:  landing
 
 sections:
-  - block: people
-    content:
-      filter: admin       # 你在 authors/admin/ 里已经定义了实验室的 logo、名称、社交
-    design:
-      view: card          # 卡片式展示
-      show_social: true   # 显示邮箱、GitHub 等
-      columns: '4'        # 占用 4/12 的宽度
+  # - block: people
+  #   content:
+  #     filter: admin       # 你在 authors/admin/ 里已经定义了实验室的 logo、名称、社交
+  #   design:
+  #     view: card          # 卡片式展示
+  #     show_social: true   # 显示邮箱、GitHub 等
+  #     columns: '4'        # 占用 4/12 的宽度
 
   - block: hero
     content:
