@@ -5,6 +5,13 @@
 ############################
 
 imports:
+  # 1) 主题：Research Group Template
+  - path: github.com/HugoBlox/theme-research-group
+
+    # 2) Hugo Blox Builder 核心（含 blocks、partials、layouts）
+  - path: github.com/HugoBlox/hugo-blox-builder
+
+    # 3) 你要用的插件
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
