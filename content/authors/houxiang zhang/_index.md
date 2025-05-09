@@ -35,7 +35,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mailto:hozh@ntnu.no'
-  - icon: education
+  - icon: user
     icon_pack: fas
     link: https://www.ntnu.edu/employees/hozh
   - icon: google-scholar
