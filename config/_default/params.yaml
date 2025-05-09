@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  # theme_day: minimal #没用
-  # theme_night:
-  # font: native
-  # font_size: L
+  theme_day: minimal  # 你可以换成任意已安装的 light 主题包
+  theme_night:  minimal   # 同样也可以是同一个或不同的 dark 主题包
+  font: native
+  font_size: L
   
-  mode: system # 控制配色模式：light / dark / system(跟随系统)
+ # mode: system # 控制配色模式：light / dark / system(跟随系统)
 # SEO
 
 marketing:
@@ -35,13 +35,12 @@ marketing:
 header:
   navbar:
     enable: true
-    # 一定要用 “navbar” 这个内置 blox
-    blox: "navbar"
     align: r  # 左/中/右 对齐
     show_logo: true
     show_language: false
-    # show_day_night: true
-    show_theme_chooser: true   # 打开“主题切换”按钮
+    show_day_night: true
+    # show_theme_chooser: true   # 打开“主题切换”按钮
+    fixed_to_top: true    # （可选）滚动时固定
     show_search: true
     highlight_active_link: false
      
