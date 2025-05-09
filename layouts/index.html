@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Genetic Logic Lab</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<style>
+  .custom-homepage {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 2rem;
+    gap: 4rem;
+    flex-wrap: wrap;
+  }
+
+  .home-left {
+    flex: 1;
+    max-width: 400px;
+    text-align: center;
+  }
+
+  .home-left img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+  }
+
+  .home-right {
+    flex: 2;
+    max-width: 800px;
+  }
+
+  .home-right h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .home-right p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+</style>
+
+<div class="custom-homepage">
+  <div class="home-left">
+    <img src="{{ "logo.jpg" | relURL }}" alt="Lab Logo" />
+    <h2>Genetic Logic Lab</h2>
+    <p>University of Colorado Boulder</p>
+    <a href="mailto:your-email@university.edu" style="margin-right: 1rem;">
+      <i class="fas fa-envelope fa-lg"></i>
+    </a>
+    <a href="https://github.com/your-lab">
+      <i class="fab fa-github fa-lg"></i>
+    </a>
+  </div>
+
+  <div class="home-right">
+    <h1>Welcome to the Genetic Logic Lab!</h1>
+    <p>
+      The Genetic Logic Lab is run by <a href="https://www.example.com">Chris Myers</a>.
+      The research in the lab focuses on interdisciplinary synthetic biology work
+      in the overlap between electrical engineering, mathematical modelling, and
+      genetic biology. Examples of work include: the creation of genetic design
+      automation programs similar to electronic design automation programs for circuit
+      designs, stochastic verification of genetic models, and a repository for storing
+      and sharing genetic constructs.
+    </p>
+    <img src="{{ "together.jpg" | relURL }}" alt="Group Photo" style="width:100%; margin-top:2rem;" />
+  </div>
+</div>
+</body>
+</html>
