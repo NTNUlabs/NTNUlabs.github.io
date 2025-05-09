@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Genetic Logic Lab</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+{{ define "main" }}
 <style>
   .custom-homepage {
     display: flex;
@@ -49,30 +41,40 @@
 
 <div class="custom-homepage">
   <div class="home-left">
-    <img src="{{ "logo.jpg" | relURL }}" alt="Lab Logo" />
-    <h2>Genetic Logic Lab</h2>
-    <p>University of Colorado Boulder</p>
-    <a href="mailto:your-email@university.edu" style="margin-right: 1rem;">
+    <img src="{{ "media/logo.jpg" | relURL }}" alt="Lab Logo" />
+    <h2>Intelligent Systems Lab</h2>
+    <p>Norges teknisk-naturvitenskapelige universitet</p>
+    <a href="guoyuan.li@ntnu.no" style="margin-right: 1rem;">
       <i class="fas fa-envelope fa-lg"></i>
     </a>
-    <a href="https://github.com/your-lab">
+    <a href="https://github.com/NTNUlabs/NTNUlabs.github.io">
       <i class="fab fa-github fa-lg"></i>
     </a>
   </div>
-
+  
   <div class="home-right">
-    <h1>Welcome to the Genetic Logic Lab!</h1>
+    <h1> Welcome to the Intelligent Systems Lab!</h1>
     <p>
-      The Genetic Logic Lab is run by <a href="https://www.example.com">Chris Myers</a>.
-      The research in the lab focuses on interdisciplinary synthetic biology work
-      in the overlap between electrical engineering, mathematical modelling, and
-      genetic biology. Examples of work include: the creation of genetic design
-      automation programs similar to electronic design automation programs for circuit
-      designs, stochastic verification of genetic models, and a repository for storing
-      and sharing genetic constructs.
+      The Genetic Logic Lab is run by <a href="http://127.0.0.1:1313/authors/houxiang%20zhang/">Houxiang Zhang</a>.
+      Our research group is based under the MOVE research framework and belongs to the Department of Ocean Operations and Civil Engineering under 
+      the Faculty of Engineering. The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
     </p>
-    <img src="{{ "together.jpg" | relURL }}" alt="Group Photo" style="width:100%; margin-top:2rem;" />
+    <img src="{{ "media/together.jpg" | relURL }}" alt="Group Photo" style="width:100%; margin-top:2rem;" />
   </div>
 </div>
-</body>
-</html>
+
+
+<section style="padding: 2rem 4rem; max-width: 1000px; margin: auto;">
+  <h2 style="font-size: 2rem; margin-bottom: 1rem;">Our Research Focus</h2>
+  <p style="font-size: 1.1rem; line-height: 1.8;">
+    The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, 
+    thermal analysis, control, etc. While conventional approaches typically involve the separate simulation of these subsystems, the team led by Prof. Zhang pioneered 
+    the development of an integrated co-simulation framework for marine surface vessels, incorporating over 10 multidisciplinary subsystems.
+  </p>
+  <p style="font-size: 1.1rem; line-height: 1.8;">
+    The second research focus is in the area of physics-data cooperative hybrid modeling and control of marine vessels, considering environmental and operational uncertainties.
+     This combines physics-based models with data-driven techniques to achieve more robust, adaptive, and interpretable system behaviors.
+  </p>
+</section>
+
+{{ end }}
