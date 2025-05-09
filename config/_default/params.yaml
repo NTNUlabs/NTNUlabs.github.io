@@ -35,6 +35,8 @@ marketing:
 header:
   navbar:
     enable: true
+    # 一定要用 “navbar” 这个内置 blox
+    blox: "navbar"
     align: r  # 左/中/右 对齐
     show_logo: true
     show_language: false
@@ -44,8 +46,7 @@ header:
     highlight_active_link: false
      
    
-    # 一定要用 “navbar” 这个内置 blox
-    blox: "navbar"
+    
 
 
 # Site footer
