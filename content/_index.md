@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2025-05-01
-type: landing
+type:  "widget_page"
 
 sections:
   - block: hero
@@ -14,11 +14,11 @@ sections:
         The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
       image:
         filename: together.jpg
-        alt_text: Group photo
+        alt: "Group Photo"
     design:
       alignment: right
       width: wide
-
+    
   # - block: people
   #   content:
   #     title: ''
