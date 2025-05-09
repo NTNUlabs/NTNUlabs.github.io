@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2025-05-01
-type: "widget_page"
+type:  landing
 
 sections:
   - block: people
@@ -24,7 +24,7 @@ sections:
         filename: together.jpg
         alt: "Group Photo"
     design:
-      alignment: right
+      view: split
       columns: '8'       # 占用 8/12 的宽度
     
   # - block: people
