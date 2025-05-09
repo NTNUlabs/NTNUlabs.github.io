@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  # theme_day: minimal #没用
+  # theme_night:
+  # font: native
+  # font_size: L
   
   mode: system # 控制配色模式：light / dark / system(跟随系统)
 # SEO
@@ -35,15 +35,18 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: r  # 左/中/右 对齐
     show_logo: true
     show_language: false
-    show_day_night: true
+    # show_day_night: true
+    show_theme_chooser: true   # 打开“主题切换”按钮
     show_search: true
     highlight_active_link: false
      
-    # 打开“主题切换”按钮
-    show_theme_chooser: true
+   
+    # 一定要用 “navbar” 这个内置 blox
+    blox: "navbar"
+
 
 # Site footer
 
