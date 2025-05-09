@@ -24,10 +24,10 @@ url_poster: ""
 url_source: ""
 tags: ["collision and ground safety", "probabilistic model", "trajectory prediction", "AIS data"]
 summary: "A deep generative approach to forecast multi-ship trajectories with interaction modeling, validated on real-world AIS data."
-image:
-  filename: omae_147_3_031402_graphic_abstract.png
-  caption: "Graphical Abstract Figure"
-  focal_point: "center"
-  preview_only: false
+# image:
+#   filename: omae_147_3_031402_graphic_abstract.png
+#   caption: "Graphical Abstract Figure"
+#   focal_point: "center"
+#   preview_only: false
 projects: []
 ---

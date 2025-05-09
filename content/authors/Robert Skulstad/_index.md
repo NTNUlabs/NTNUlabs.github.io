@@ -39,8 +39,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://www.ntnu.edu/employees/robert.skulstad
-  - icon: twitter
-    icon_pack: fab
+  - icon: user
+    icon_pack: fas
     link: https://www.ntnu.edu/employees/robert.skulstad
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -63,7 +63,7 @@ user_groups:
 My research interests mainly lie within ship maneuvering and ship decision support systems. Specifically how machine learning can be used to aid these applications.
 
 ## Project Experience
-**2017¨C2019**: DeepTek Pre-project  
+**2017-2019**: DeepTek Pre-project  
 Associated with the SFI MOVE project.  
 Detailed information can be found from the [Intelligent Systems Lab](https://www.ntnu.edu/ihb/intelligent-systems-lab)  
 or visit [org.ntnu.no/intelligentsystemslab](http://org.ntnu.no/intelligentsystemslab)
