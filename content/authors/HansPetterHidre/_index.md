@@ -33,12 +33,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:hans.p.hildre@ntnu.no'
+  - icon: user
+    icon_pack: fas
+    link: https://www.ntnu.edu/employees/hans.p.hildre
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.no/citations?user=4oQK-L0AAAAJ&hl=no
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
+
 
 
 # Link to a PDF of your resume/CV from the About widget.
