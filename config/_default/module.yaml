@@ -3,15 +3,8 @@
 ## Install or uninstall themes and plugins here.
 ## Docs: https://gohugo.io/hugo-modules/
 ############################
-module:
-  imports:
-    # 1) Wowchemy Starter Research Group 主题，提供 callout、figure、cta、tabs 等 Shortcodes
-  - path: github.com/wowchemy/starter-hugo-research-group
 
-    # 2) Hugo Blox Builder 核心（提供 v1 blocks、layouts、partials）
-  - path: github.com/HugoBlox/hugo-blox-builder
-
-    # 3) 你需要的插件
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5

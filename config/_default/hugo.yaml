@@ -62,37 +62,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-# 在文件任意位置（通常放在文件顶端或末尾都可以），添加下面两段：
-
-# ───────────────────────────────────────────────
-# 1. 定义一个新的输出格式 “redirects”
-#    用来生成 Netlify 所需的 _redirects 文件
-# ───────────────────────────────────────────────
-outputFormats:
-  redirects:
-    mediaType: "text/plain"
-    baseName: "_redirects"
-    isPlainText: true
-    notAlternative: true
-
-  headers:
-    mediaType: "text/plain"
-    baseName: "_headers"
-    isPlainText: true
-    notAlternative: true
-
-# ───────────────────────────────────────────────
-# 2. 告诉 Hugo “home” 这个页面要输出 HTML 之外，还要输出 redirects
-# ───────────────────────────────────────────────
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-    - WebAppManifest
-    - headers
-    - redirects    # ← 新增这一项
-  section:
-    - HTML
-    - RSS
