@@ -9,6 +9,7 @@ last_name:  Primeau
 # Username (this should match the folder name)
 authors:
   -Russell Burch Primeau
+avatar: avatar.png
 
 # Is this the primary user of the site?
 superuser: false

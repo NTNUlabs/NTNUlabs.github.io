@@ -9,7 +9,7 @@ last_name: Skulstad
 # Username (this should match the folder name)
 authors:
   - Robert Skulstad
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 

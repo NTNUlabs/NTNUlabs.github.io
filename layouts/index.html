@@ -75,17 +75,63 @@
   </div>
 </div>
 
-<section style="padding: 2rem 4rem; max-width: 1400px; width: 90%; margin: auto;">
-  <h2 style="font-size: 2rem; margin-bottom: 1rem;">Our Research Focus</h2>
-  <p style="font-size: 1.1rem; line-height: 1.8;">
+<section style="padding: 2rem 4rem 0 4rem; max-width: 1400px; width: 90%; margin: auto;">
+  <h2 style="font-size: 2rem; margin-bottom: 1rem; text-align: center;">Our Research Focus</h2>
+  <p style="font-size: 1.05rem; line-height: 1.75; margin-bottom: 1rem;">
     The first research focus of the team is on digitalization of advanced marine systems, a field known for its multidisciplinary nature encompassing hydrodynamics, 
     thermal analysis, control, etc. While conventional approaches typically involve the separate simulation of these subsystems, the team led by Prof. Zhang pioneered 
     the development of an integrated co-simulation framework for marine surface vessels, incorporating over 10 multidisciplinary subsystems.
   </p>
-  <p style="font-size: 1.1rem; line-height: 1.8;">
+  <p style="font-size: 1.05rem; line-height: 1.75;">
     The second research focus is in the area of physics-data cooperative hybrid modeling and control of marine vessels, considering environmental and operational uncertainties.
-     This combines physics-based models with data-driven techniques to achieve more robust, adaptive, and interpretable system behaviors.
+    This combines physics-based models with data-driven techniques to achieve more robust, adaptive, and interpretable system behaviors.
   </p>
+</section>
+
+
+<section style="padding: 3rem 1rem;">
+  <h2 style="font-size: 2.2rem; text-align: center; margin-bottom: 0.5rem;">Meet the Team</h2>
+  <p style="text-align: center; font-size: 1.1rem; color: #ccc; margin-bottom: 2rem;">Researchers</p>
+
+  <div style="
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 2.5rem 1.5rem;
+    justify-items: center;
+    max-width: 1200px;
+    margin: auto;
+  ">
+    {{ $showAuthors := slice
+      "houxiang zhang"
+      "HansPetterHidre"
+      "guoyuanli"
+      "Robert Skulstad"
+      "Peihua Han"
+      "Tongtong Wang"
+      "Qin Liang"
+      "Mingda Zhu"
+      "Lars Ivar Hatledal"
+      "André Listou Ellefsen"
+      "Thiago Gabriel Monteiro"
+      "Baiheng Wu"
+    }}
+
+    {{ range $slug := $showAuthors }}
+      {{ with site.GetPage (printf "authors/%s" $slug) }}
+        <div style="width: 140px; text-align: center; display: flex; flex-direction: column; align-items: center;">
+          <a href="{{ .RelPermalink }}" style="text-decoration: none;">
+            <div style="display: flex; flex-direction: column; align-items: center;">
+              <img src="{{ .RelPermalink }}{{ .Params.avatar }}"
+                   alt="{{ .Title }}"
+                   style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin-bottom: 0.5rem;" />
+              <p style="margin: 0; font-weight: 600; font-size: 0.9rem; color: #6aa5ff;">{{ .Title }}</p>
+              <p style="font-size: 0.68rem; color: #aaa; margin-top: 0.3rem;">{{ .Params.role }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
 </section>
 
 {{ end }}

@@ -9,7 +9,7 @@ last_name:  Sanguino
 # Username (this should match the folder name)
 authors:
   - Beatriz Sanguino
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 

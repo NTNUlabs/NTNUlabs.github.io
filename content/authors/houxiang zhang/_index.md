@@ -9,7 +9,7 @@ last_name: Zhang
 # Username (this should match the folder name)
 authors:
   - Houxiang Zhang
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: true
 

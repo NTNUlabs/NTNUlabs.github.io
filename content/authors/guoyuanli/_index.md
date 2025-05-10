@@ -9,6 +9,7 @@ last_name:  Li
 # Username (this should match the folder name)
 authors:
   - Guoyuan Li
+avatar: avatar.jpg
 
 # Is this the primary user of the site?
 superuser: false

@@ -9,7 +9,7 @@ last_name:  Zhu
 # Username (this should match the folder name)
 authors:
   - Mingda Zhu
-
+avatar: avatar.jpeg
 # Is this the primary user of the site?
 superuser: false
 

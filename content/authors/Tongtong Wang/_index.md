@@ -9,7 +9,7 @@ last_name:  Wang
 # Username (this should match the folder name)
 authors:
   - Tongtong Wang
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 

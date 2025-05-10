@@ -9,7 +9,7 @@ last_name:  Tian
 # Username (this should match the folder name)
 authors:
   - Weiwei Tian
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 

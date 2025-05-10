@@ -9,7 +9,7 @@ last_name: Petter Hildre
 # Username (this should match the folder name)
 authors:
   - Hans Petter Hildre
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 

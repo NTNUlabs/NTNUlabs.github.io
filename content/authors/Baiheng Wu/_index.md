@@ -9,7 +9,7 @@ last_name:  Wu
 # Username (this should match the folder name)
 authors:
   - Baiheng Wu
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 

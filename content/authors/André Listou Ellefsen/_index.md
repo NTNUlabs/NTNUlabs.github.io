@@ -9,7 +9,7 @@ last_name:  Ellefsen
 # Username (this should match the folder name)
 authors:
   - André Listou Ellefsen
-
+avatar: avatar.jpg
 # Is this the primary user of the site?
 superuser: false
 
