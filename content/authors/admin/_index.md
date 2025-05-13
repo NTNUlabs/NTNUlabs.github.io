@@ -58,3 +58,5 @@ Our research group is based under the MOVE research framework and belongs to the
 <!-- We are hosting an outreach event for undergraduate students interested in synthetic biology! <a href="/outreach/">Click here for more info and to register</a>! -->
 
 <img src="media/icons/together.jpg" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">
+
+
