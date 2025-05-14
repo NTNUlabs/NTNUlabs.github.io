@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: home
-    weight: 10
+  # - name: Home
+  #   url: home
+  #   weight: 10
 
   # - name: Tour
   #   url: tour
@@ -24,20 +24,20 @@ main:
     identifier: research
     weight: 40
 
-  - name: Projects
-    url: /project/
-    parent: research
-    weight: 1
+  # - name: Projects
+  #   url: /project/
+  #   parent: research
+  #   weight: 1
 
-  - name: Robotics
-    url: /robotics/
-    parent: research
-    weight: 2
+  # - name: Robotics
+  #   url: /robotics/
+  #   parent: research
+  #   weight: 2
 
-  - name: Gunnerus
-    url: /gunnerus/
-    parent: research
-    weight: 3
+  # - name: Gunnerus
+  #   url: /gunnerus/
+  #   parent: research
+  #   weight: 3
 
   # - name: Events
   #   url: event

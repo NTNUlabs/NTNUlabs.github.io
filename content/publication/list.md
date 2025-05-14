@@ -1,7 +1,7 @@
 ---
 title: "Publication List"
 summary: "A curated overview of our publications."
-date: 2025-05-09
+date: 2025-05-14
 layout: list-single
 type: page
 css_class: wider-content

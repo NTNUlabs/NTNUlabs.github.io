@@ -67,16 +67,16 @@ h4 {
 
 /* 拓宽主内容区域 */
 
-// .article-container,
-// .content,
-// .page-body {
-//   max-width: 90% !important;
-//   width: 90% !important;
-//   margin-left: auto !important;  /* 居中关键 */
-//   margin-right: auto !important; /* 居中关键 */
-//   padding-left: 2rem;
-//   padding-right: 2rem;
-// }
+.article-container,
+.content,
+.page-body {
+  max-width: 90% !important;
+  width: 90% !important;
+  margin-left: auto !important;  /* 居中关键 */
+  margin-right: auto !important; /* 居中关键 */
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 /* 保持图片原始比例并响应式缩放 */
 // .article-container img,
 // .page-body img,
