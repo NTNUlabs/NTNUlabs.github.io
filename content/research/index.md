@@ -46,14 +46,14 @@ markup: "html"
 
     <div style="margin-bottom: 2.5rem;">
       <h3><a href="https://intelligentsystemslab.org.ntnu.no/project.html" style="color: #3366cc; text-decoration: none;">Projects</a></h3>
-      <p style="color: #ccc; font-size: 1rem; line-height: 1.6;">
+      <p style=" font-size: 1rem; line-height: 1.6;">
        This project focuses on transforming the Norwegian maritime industry by introducing a simulation-driven design process for demanding marine operations such as anchor handling, subsea installation, and platform supply. Currently, the development cycle for new ships or procedures can take 2–3 years. By developing simulator models in parallel with ship or equipment design, the project aims to accelerate learning, test more alternatives, and enhance innovation effectiveness.  The vision is to build a strong Norwegian maritime offshore industry through world-leading expertise in simulation-based design and complex operation modeling.  The primary objective is to create the next-generation open and standardized simulator framework for virtual prototyping of deck machinery, supporting both product development and operational planning.
       </p>
     </div>
 
     <div style="margin-bottom: 2.5rem;">
       <h3><a href="https://intelligentsystemslab.org.ntnu.no/robotics.html" style="color: #3366cc; text-decoration: none;">Robotics</a></h3>
-      <p style="color: #ccc; font-size: 1rem; line-height: 1.6;">
+      <p style=" font-size: 1rem; line-height: 1.6;">
        The robotics group works on applied mechatronics, control systems, and autonomous platforms, with a strong focus on mobile robotics, including climbing robots, modular robots, and bio-inspired systems. Since 1996, the team has developed various autonomous climbing robots aimed at industrial inspection and urban search and rescue. Key challenges addressed include lightweight structures and attachment mechanisms for unstructured environments. 
 
        To overcome the limitations of large, inflexible prototypes, the group explores modular robotics as a way to achieve flexible locomotion in miniature formats. Notable systems include the JL-I robot, a reconfigurable modular robot capable of navigating complex terrains, and Cube-M, a low-cost educational platform with onboard control and sensors.
@@ -65,7 +65,7 @@ markup: "html"
 
     <div style="margin-bottom: 2.5rem;">
        <h3><a href="https://intelligentsystemslab.org.ntnu.no/gunnerus.html" style="color: #3366cc; text-decoration: none;">Gunnerus</a></h3>
-       <p style="color: #ccc; font-size: 1rem; line-height: 1.6;">
+       <p style=" font-size: 1rem; line-height: 1.6;">
          R/V Gunnerus, operated by NTNU, is a modern research vessel launched in 2006 and equipped with advanced technology for marine research in biology, oceanography, geology, archaeology, fisheries, and maritime engineering. The vessel is fitted with a dynamic positioning system and HiPap 500, allowing for precise control during ROV operations and equipment deployment.
 
          Designed for both research and education, Gunnerus features low-noise diesel-electric propulsion suitable for hydroacoustic testing, and is equipped with wet and dry laboratories, a computer lab, and a large aft deck. The ship can accommodate scientific personnel and includes a lecture room for up to 25 students, making it a key platform for marine science education.
