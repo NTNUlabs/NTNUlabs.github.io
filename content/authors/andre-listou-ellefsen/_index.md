@@ -3,7 +3,7 @@
 title: André Listou Ellefsen
 
 # Full name (for SEO)
-first_name: André Listou Ellefsen
+first_name: André Listou
 last_name:  Ellefsen
 
 # Username (this should match the folder name)

@@ -8,10 +8,10 @@
     padding: 2rem 2rem;
     gap: 4rem;
     flex-wrap: wrap;
-    max-width: 90% ;
+    max-width: 90%;
     margin: 0 auto;
   }
- 
+
   .home-left {
     flex: 1;
     max-width: 400px;
@@ -19,14 +19,14 @@
   }
 
   .home-left img {
-    display: block;          /* 让图片成为可居中的块级元素 */
-    margin: 0 auto;          /* 左右自动间距，即居中 */
+    display: block;
+    margin: 0 auto;
     width: 200px;
     height: auto;
     margin-bottom: 1rem;
     border-radius: 50%;
   }
-  
+
   .home-right {
     flex: 2;
     max-width: 800px;
@@ -61,19 +61,21 @@
       <i class="fab fa-github fa-lg"></i>
     </a>
   </div>
-  
+
   <div class="home-right">
     <h1> Welcome to the Intelligent Systems Lab!</h1>
     <p>
       The Intelligent Systems Lab is run by <a href="http://127.0.0.1:1313/authors/houxiang%20zhang/">Houxiang Zhang</a>.
       Our research group is based under the MOVE research framework and belongs to
       <a href="https://www.ntnu.edu/ihb/department-of-ocean-operations-and-civil-engineering" target="_blank">
-      the Department of Ocean Operations and Civil Engineering</a> under <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>. 
+        the Department of Ocean Operations and Civil Engineering</a> under 
+      <a href="https://www.ntnu.edu/iv" target="_blank">the Faculty of Engineering</a>.
       The group consists of three full professors, one associate professor, three postdoctoral research fellows, and nine Ph.D. candidates.
     </p>
     <img src="{{ "media/together.jpg" | relURL }}" alt="Group Photo" style="width:100%; margin: auto;" />
   </div>
 </div>
+
 
 <section style="padding: 0rem 1rem 0 4rem; max-width: 1400px; width: 90%; margin: auto;">
   <h2 style="font-size: 2rem; margin-bottom: 1rem; text-align: center;">Our Research Focus</h2>
@@ -89,6 +91,7 @@
 </section>
 
 
+
 <section style="padding: 1rem 1rem;">
   <h2 style="font-size: 2.2rem; text-align: center; margin-bottom: 0.5rem;">Meet the Team</h2>
   <p style="text-align: center; font-size: 1.1rem; color: #ccc; margin-bottom: 2rem;">Researchers</p>
@@ -102,18 +105,18 @@
     margin: auto;
   ">
     {{ $showAuthors := slice
-      "houxiang zhang"
-      "HansPetterHidre"
-      "guoyuanli"
+      "houxiang-zhang"
+      "hanspetterhidre"
+      "guoyuan-li"
       "Robert Skulstad"
-      "Peihua Han"
-      "Tongtong Wang"
-      "Qin Liang"
-      "Mingda Zhu"
-      "Lars Ivar Hatledal"
-      "André Listou Ellefsen"
-      "Thiago Gabriel Monteiro"
-      "Baiheng Wu"
+      "peihua-han"
+      "tongtong-wang "
+      "qin-liang"
+      "mingda-zhu"
+      "lars-ivar-hatledal"
+      "andre-listou-ellefsen"
+      "thiago-gabriel-monteiro"
+      "baiheng-wu"
     }}
 
     {{ range $slug := $showAuthors }}

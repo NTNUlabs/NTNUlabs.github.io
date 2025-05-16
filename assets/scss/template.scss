@@ -87,3 +87,44 @@ h4 {
 //   margin: 1rem auto; /* 可选：图片居中并留白 */
 // }
 
+  .custom-homepage {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 2rem;
+    gap: 4rem;
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
+  .home-left {
+    flex: 1;
+    max-width: 400px;
+    text-align: center;
+  }
+
+  .home-left img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+  }
+
+  .home-right {
+    flex: 2;
+    max-width: 800px;
+  }
+
+  .home-right h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .home-right p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
