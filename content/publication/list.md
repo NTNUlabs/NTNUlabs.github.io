@@ -18,9 +18,15 @@ Welcome to our full list of publications. Click on any title below to view more 
 ## <span id="journal">Journal and Conference Papers</span>
 
 ### 2025
-0. Beatriz Sanguino, Tongtong Wang, Øivind Kåre Kjerstad, Guoyuan Li and Houxiang Zhang: Modeling and analyzing the impact of environmental disturbances in vessel model estimation, **Modeling, Identification and Control**, vol. 46, no. 1, pp. 35-49, DOI: 10.4173/mic.2025.1.3, 2025.[📄](https://www.mic-journal.no/ABS/MIC-2025-1-3.asp/) [❝](https://www.mic-journal.no/ABS/MIC-2025-1-3.asp/)
+1. Vasileios Kanatas, Nikolaos Passalis, Tongtong Wang, Beatriz Sanguino, Houxiang Zhang, Guoyuan Li and Anastasios Tefas: Anchor-based adaptation for modeling vessel maneuvering dynamics, Ocean Engineering, 2025, accepted.[📄](https://intelligentsystemslab.org.ntnu.no/publication.html) [❝](https://www.mic-journal.no/ABS/MIC-2025-1-3.asp/)
 
-1. Weiwei Tian, Beatriz Sanguino, Mingda Zhu, Øivind Kåre Kjerstad, Guoyuan Li and Houxiang Zhang: *Knowledge extraction from decision-making data for maritime navigation support*, **Ocean Engineering**, vol. 331, DOI: 10.1016/j.oceaneng.2025.121268, 2025.[📄](https://www.cambridge.org/core/journals/research-directions-cyber-physical-systems/article/robotic-safe-adaptation-in-unprecedented-situations-the-robosapiens-project/C38E33D46B0585DD692F1597C3172EE9) [❝](#)
+2. Tongtong Wang, Beatriz Sanguino, Guoyuan Li, Houxiang Zhang: Towards safe and trustworthy intelligent marine operations: new challenges and solutions, in 13th International Conference on Control, Mechatronics and Automation (ICCMA), Paris, France, November 24-26, 2025, accepted.[📄](https://intelligentsystemslab.org.ntnu.no/publication.html) [❝](#)
+
+3. Beatriz Sanguino, Tongtong Wang, Øivind Kåre Kjerstad, Guoyuan Li and Houxiang Zhang: Modeling and analyzing the impact of environmental disturbances in vessel model estimation, **Modeling, Identification and Control**, vol. 46, no. 1, pp. 35-49, DOI: 10.4173/mic.2025.1.3, 2025.[📄](https://www.mic-journal.no/ABS/MIC-2025-1-3.asp/) [❝](#)
+
+4. Weiwei Tian, Mingda Zhu, Peihua Han, Øivind Kåre Kjerstad, Guoyuan Li and Houxiang Zhang: Leveraging AIS data for maneuver detection and knowledge extraction during ship encounter, **Ocean Engineering**, 2025, accepted. [📄](https://intelligentsystemslab.org.ntnu.no/publication.html) [❝](#)
+
+5. Weiwei Tian, Beatriz Sanguino, Mingda Zhu, Øivind Kåre Kjerstad, Guoyuan Li and Houxiang Zhang: *Knowledge extraction from decision-making data for maritime navigation support*, **Ocean Engineering**, vol. 331, DOI: 10.1016/j.oceaneng.2025.121268, 2025.[📄](https://www.cambridge.org/core/journals/research-directions-cyber-physical-systems/article/robotic-safe-adaptation-in-unprecedented-situations-the-robosapiens-project/C38E33D46B0585DD692F1597C3172EE9) [❝](#)
 
 6. Runze Mao, Yutong Qian, Kai Liu, Yuanjiang Li, Guoyuan Li and Houxiang Zhang: A comprehensive survey of battery energy in maritime transportation: Trends, challenges, and future perspectives, **Ocean Engineering**, vol. 337, DOI: 10.1016/j.oceaneng.2025.121881,2025. [📄](https://www.sciencedirect.com/science/article/pii/S0029801825015872) [❝](https://www.sciencedirect.com/science/article/pii/S0029801825015872)
 
